@@ -257,8 +257,20 @@ nav {
       font-family: Georgia, "Times New Roman", Times, serif;
   }
 
-  h1 {
+  h1, h2, h3, h4 {
       font-family: "News Cycle", sans-serif;
+      text-transform: uppercase;
+  }
+
+  .title {
+       line-height: 1;
+       color: $blue;
+  }
+
+  > h4 {
+      line-height: 0.4;
+      margin-bottom: 50px;
+      color: #888;
   }
 
   blockquote {
