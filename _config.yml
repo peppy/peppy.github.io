@@ -12,6 +12,7 @@ description: osu! development updates
 avatar: https://avatars0.githubusercontent.com/u/191335?v=3&s=460
 
 paginate: 10
+paginate_path: "/page/:num/"
 
 #
 # Flags below are optional
