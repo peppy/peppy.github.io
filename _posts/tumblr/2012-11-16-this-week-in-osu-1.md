@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'this week in osu! #1'
+date: '2012-11-16T22:29:00+09:00'
+tags:
+- osu!
+- weekinosu!
+- dev
+tumblr_url: http://pppy.tumblr.com/post/35841013759/this-week-in-osu-1
+---
+I’ve decided to start this forum as a place to discuss what has happened over the last week in osu!. I’m taking this idea from the Webkit/Chromium developers who use a similar approach to sum up changes at a higher level than the raw changelog, which may not reflect where time has been spent over the week. A lot goes on behind the scenes of osu! and I’d love to share more of this with you guys :).
+
+
+
+Here goes!
+
+
+
+osu!mania ranking was reset, and an initial implementation of pp is present. I still want to tweak these calculations, as they are working with much smaller numbers than I am used to when balancing the pp system.
+I have been working with a new test environment containing 360gb of beatmaps (over 100,000 difficulties) in order to stress test various parts of osu!. My main focus here is on the song select screen, which suffers from decreased frame rates with higher beatmap counts, as well as trying to replicate occasional lag spikes that occur for some users during play mode. As a result, I have added the experimental ability to store songs in a non-standard song folder (add a BeatmapDirectory key in your config file containing the absolute path). No support will be given for users attempting this. Keep in mind it will cause a full process when switching paths.
+I realised I had not yet switched the main osu! web server across to php5.4 (it was still on 5.3.x), even though I had extensively tested against 5.4, so I decided to make the switch on Wednesday. Due to an incorrect configuration file and lack of error messaging at php’s end, there was a 15 minute downtime during this switch where the website and score submission were not available (see http://stat.ppy.sh/322866/2012/11). Easily avoidable, but nothing too major, and during off-peak times.
+While we already have the test/sandbox server ha.ppy.sh, I completed the last few steps required to allow deploying a dev server on a local machine for the osu! website yesterday. This means with a spare ubuntu VM and around 15-20minutes to set things up, I can have a fully working osu! website locally, for even faster previewing of changes. This should speed up development significantly in some specific cases.
+We hit a new high with 8,415 users connected on the 11th!
+I commissioned a new server for bancho in order to keep up with bandwidth requirements from the ever-increasing user count (especially at peak times). This is mainly to take advantage of new offers available at the datacentre and as a result, keep servers affordable. Datacentres generally make their money based on the fact that most people don’t bother migrating servers from deprecated plans, meaning you are paying old rates which usually decrease over time. By spending a bit of time and recycling old server, it is very possible to save big, as in this case, where I was able to double my bandwidth allowance without increasing base costs. Migration to the new server will happen early next week and no downtime will be necessary.
+I decided to increase the BSS upload allowance by 1~2 maps across the board. Go submit those maps you have been waiting to for a while :).
+The osu! world cup is finalised and ready to start in just over a week’s time!
+I’ll be posting these things once a week on Fridays, so follow with your rss readers or whatever works best. Feel free to post comments if you have questions or suggestions!
