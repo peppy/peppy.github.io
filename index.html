@@ -13,7 +13,7 @@ layout: default
             {{ post.content }}
         </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">comments</a>
+        <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread" class="read-more">comments</a>
     </article>
     {% endfor %}
 </div>
@@ -27,3 +27,5 @@ layout: default
     <a href="{{ paginator.next_page_path }}" class="next">&raquo;</a> {% else %}
     <span class="next ">&raquo;</span> {% endif %}
 </div>
+
+<script id="dsq-count-scr" src="//ppy.disqus.com/count.js" async></script>
