@@ -18,9 +18,7 @@ We've made some huge advances in technology and infrastructure of the client whi
 
 - Until now we used some XNA code for input handling and low-level structs. These dependencies are almost compeletely removed from the project now, with OpenTK or similar open-source frameworks replacing them. All that's left is Vector2, Vector3 and Matrix. These last few are a bit more complicated to remove than the rest, but should be gone soon.
 
-<center>
 ![](https://puu.sh/pKYQg/3c26de7a65.png)
-</center>
 
 - The audio subsystem is now in a better state than ever before. What was previously a mess of co-dependent classes and statics is not a lean Clock hierarchy. Each clock performs a specific task, allowing for very logical control of things like interpolation, frame-based time separation, offsets, rate adjustments and virtual time (intro/outro time).
 
