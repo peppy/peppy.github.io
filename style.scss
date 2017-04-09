@@ -261,6 +261,12 @@ nav {
 
   .entry {
       font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 90%;
+
+      a {
+        background: lighten($blue, 47);
+        border-radius: 2px;
+      }
   }
 
   img {
@@ -275,7 +281,7 @@ nav {
 
   .title {
        line-height: 1;
-       color: $blue;
+       color: darken($blue,10);
   }
 
   > h4 {
