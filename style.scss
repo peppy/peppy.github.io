@@ -163,6 +163,10 @@ img {
   @include mobile {
     text-align: center;
   }
+
+  a:hover {
+    color: $lightGray;
+  }
 }
 
 .site-avatar {
