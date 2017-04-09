@@ -249,7 +249,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid lighten(#f33, 35);
 }
 
 .posts > .post:last-child {
@@ -274,7 +274,7 @@ nav {
       margin: 0 auto;
   }
 
-  h1, h2, h3, h4 {
+  h1, h2, h3, h4, .read-more {
       font-family: "Oswald", sans-serif;
       text-transform: uppercase;
   }
@@ -301,11 +301,6 @@ nav {
 
   .comments {
     margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
   }
 }
 
