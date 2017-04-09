@@ -24,17 +24,15 @@ We've made some huge advances in technology and infrastructure of the client whi
 
 - The audio subsystem is now in a better state than ever before. What was previously a mess of co-dependent classes and statics is not a lean Clock hierarchy. Each clock performs a specific task, allowing for very logical control of things like interpolation, frame-based time separation, offsets, rate adjustments and virtual time (intro/outro time).
 
-<center>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/dXUpk9wB8Cw?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
-</center>
+<div data-aspect-ratio="16:9"><iframe src="https://www.youtube.com/embed/dXUpk9wB8Cw?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 - The input subsystem has been rewritten multiple times in order to create the easiest and most understandable framework for how we plan on handling user input. Hard to show this visually, but definitely a step in the right direction.
 - What was previously a mess of independent static classes is now a since static `OsuGame` which acts as the root for things that need regular game-wide access, like `Config`, `Audio` and `Skin` subsystems.
 - The text input system received a huge overhaul, allowing for proper text selection, keyboard shortcuts like ctrl-a, shift-home, ctrl-shift-rightarrow and mouse shortcuts like double-click or drag selection.
 
-<center>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/fLmIty0WiYs?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
-</center>
+<div data-aspect-ratio="16:9"><iframe src="https://www.youtube.com/embed/fLmIty0WiYs?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 - The new draw and transformation hierarchy is capable of doing some pretty cool stuff! Below is a quick demo idea stolen from [anime.js stress test](http://codepen.io/juliangarnier/pen/JKEgpO) that I replicated in about 5 minutes.
 
@@ -60,9 +58,8 @@ As you may have realised, the lazer project has increased in scope since I set o
 
 That said, osu!next (the design concept) is no longer a dream but a reality that is starting to piece together!
 
-<center>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7Iifsh7hg7k?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
-</center>
+<div data-aspect-ratio="16:9"><iframe src="https://www.youtube.com/embed/7Iifsh7hg7k?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 osu!dev discord
 ========
