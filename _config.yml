@@ -9,7 +9,7 @@ name: ppy blog
 description: osu! development updates
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/191335?v=3&s=460
+avatar: /images/ppy.png
 
 paginate: 5
 paginate_path: "/page/:num/"
