@@ -18,6 +18,14 @@ paginate_path: "/page/:num/"
 # Flags below are optional
 #
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
