@@ -12,6 +12,16 @@
                 "kind": "build",
                 "isDefault": true
             }
+        },
+        {
+            "label": "Preview in jekyll",
+            "type": "shell",
+            "problemMatcher": [],
+            "command": "jekyll serve --incremental",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
         }
     ]
 }
