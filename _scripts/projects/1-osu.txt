@@ -1,0 +1,3 @@
+osu
+/Users/dean/Projects/osu
+The osu!lazer project. The future of the osu! client. Download preview releases from [here](https://github.com/ppy/osu/releases) and follow along!

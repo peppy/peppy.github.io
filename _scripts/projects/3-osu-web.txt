@@ -1,0 +1,3 @@
+osu-web
+/Users/dean/Projects/osu-web
+The new web front-end. [Already live](https://osu.ppy.sh/home) but hasn't yet replaced the old site, pending feature parity.
