@@ -20,6 +20,7 @@ html {
 body {
   background: $white;
   font: 18px/1.4 $helvetica;
+  font-family: 'Roboto Condensed', sans-serif;
   color: $darkGray;
 }
 
@@ -62,15 +63,15 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 22px;
   text-transform: lowercase;
 }
 
@@ -227,7 +228,6 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
