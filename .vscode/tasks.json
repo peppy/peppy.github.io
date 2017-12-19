@@ -17,7 +17,7 @@
             "label": "Preview in jekyll",
             "type": "shell",
             "problemMatcher": [],
-            "command": "jekyll serve --incremental",
+            "command": "jekyll serve",
             "group": {
                 "kind": "test",
                 "isDefault": true
