@@ -1,0 +1,3 @@
+osu-framework
+/Users/dean/Projects/osu/osu-framework
+The game framework behind osu!lazer. Written from scratch with osu! in mind, but very extensible.
