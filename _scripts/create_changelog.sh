@@ -49,4 +49,4 @@ do
     rm $name_trimmed.md
 done
 
-code-insiders $output_file
+code $output_file
