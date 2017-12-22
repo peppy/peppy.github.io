@@ -17,7 +17,7 @@
             "label": "Preview in jekyll",
             "type": "shell",
             "problemMatcher": [],
-            "command": "jekyll serve",
+            "command": "~/.rbenv/shims/jekyll serve",
             "group": {
                 "kind": "test",
                 "isDefault": true
