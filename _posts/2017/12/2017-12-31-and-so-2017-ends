@@ -1,0 +1,60 @@
+---
+title: and so 2017 comes to an end!
+---
+
+<iframe width="705" height="529" src="https://www.youtube.com/embed/5x7VnC1R0Do?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+*The text below is basically a transcript of the video. Choose your format!*
+
+Hey guys, peppy here.
+
+I thought I'd take the last day of this year to take a moment to reflect on the state of osu! development, with focus on the lazer project.
+
+Many of you will know of lazer as a project that started to manifest in mid-2015, teased with [this video](https://www.youtube.com/watch?v=lrWyqpNUwBo). At this point in development, lazer was in the early design stages and implementation had not started, but it was intended to be a revamp of the user interface to give it a new lease on life.
+
+Development on this continued headed mostly by myself until late 2015. While plenty of progress was made, I also became increasingly aware of the amount of technical debt that had built up over the preceding 8 years. By the end of the year, I reached a breaking point and gathered the few developers who contributed substantial time into the development of osu! up until that point for an emergency meeting.
+
+The outlook was grim on ever making the existing code base work how I wanted it to. I was also aiming to open-source the project as soon as possible, but there was just so much bad code that this did not seem like a viable prospect. I proposed a complete rewrite and sent out a plea for other developers to help with this effort.
+
+Everyone involved seemed to agree with the direction, but unfortunately there were not many with the free time to help out in a big way. smoogipoo and Tom94, who some of you may be familiar with were the most active in the early days of the project and have been indispensable over the last couple of years.
+
+We began laying out the framework for the rewrite in early 2016. This was done with quite a bit of pre-planning, to make sure we were all in agreement on the direction we wanted to take. We made a list of all the things we wanted osu! to be and set out to start work. This took form as a completely new project, available on github from day one, under the all-permissive MIT licence. This meant that anyone who wanted to watch on, help out, or use pieces of the code for their own projects could freely do so from day one.
+
+And here we are, two years later. Jokes aside, we have come a long way. Progress has been slower than I hoped, so I'd like to touch on the various aspects which have contributed to this. Firstly, while there are other contributors, I am still the main developer of this project. As much as I'd love to spend my productive hours every day working on completing lazer, I have many other distractions including but not limited to:
+
+- Maintenance releases of osu!stable, including seasonal updates and bug fixes
+- Maintaining the infrastructure that runs osu!
+- Replying to every email I receive (I value direct communication with users)
+- Keeping track of other osu! development efforts, such as the [new website](https://osu.ppy.sh/home) (this is a topic for another day!)
+- Keeping the store running
+- Handling financials and accounting (as much as I dread this)
+- Keeping forward momentum on projects like [Featured Artists](https://osu.ppy.sh/beatmaps/artists) and the [wiki](https://github.com/ppy/osu-wiki)
+
+Then we move on to the actual implementation of osu!lazer, where we are sparing no expense in areas of automated testing and scrutiny on code quality to ensure we don't hit a dead-end down the track in a similar way to the existing stable release. This does not come without efficiency drawbacks, but we feel it is imperative to get things right this time around and create a code base which will serve us for many, many years forward.
+
+We also made the decision to split the development effort into two distinct projects, separating out the game implementation from the framework which it runs on. In the process, not only have we been able to better document the low-level code, but have also created a 2D game engine which is amazingly flexible and capable of quickly iterating interfaces and animations in a way I have not seen done elsewhere. Everyone involved is very proud of what we have created so far.
+
+Finally, we have developed lazer with cross-platform support in mind. While a downloadable installer is only available for windows, we are happy to have core developers — including myself — actively developing and testing on linux and macOS. We are also very close to having a working iOS branch with android not far behind. We are truly aiming for native cross-platform support, which doesn't come without its overhead, but is something we value (because honestly, who wants to run osu! under wine?).
+
+So where do we currently stand?
+
+Lazer is in a very playable state, but missing some of the features which many users rely on. Therefore I am still hesitant to get more eyes on it just yet. We are so close, but here are some of the areas that may be an issue to those that are trying lazer:
+
+- Tablet support (especially with raw input enabled) is still not heavily tested.
+- Skin support is not yet present (but it is safe to say your existing skins will work early next year)
+- We have not iterated on the default skins in gameplay for high playability yet. They will improve over time.
+- Optimisations for lower end PCs have not yet been addressed.
+- There is no means of submitting scores (we are finishing everything else before considering compatibility with the existing ranking system)
+- Tens of other features that people rely on every day are not yet implemented
+
+I can say that the team is insanely productive in recent weeks (as those that have been following along can likely attest to) and a lot of the missing pieces to the puzzle will quickly be filled in. If following the progress of lazer does interest you, I'd highly suggest following my blog, where I am now posting regular updates.
+
+I did promise the release of lazer in 2017, even going as far as saying I'd quit if this didn't happen. While lazer is by no means ready to take over and replace stable, it is available for download and will happily coexist with your existing osu! installation, automatically update multiple times a week and give you an insight into how fast we are making improvements. I would highly recommend downloading and giving it a try, then leaving it installed to check back on once in a while!
+
+While continuously listening to and taking feedback on board, I have always strived to sail osu! in a direction that I can agree with. I'm glad to say that this is still the case. I truly hope you guys can take a moment to appreciate just how big of an ecosystem osu! is compared to other games and just how many facets need to be concurrently managed and maintained to keep everyone happy. For a team as small as we are, this is not an easy task, so please be kind to us when we fail to meet your expectations (and definitely don't hesitate to bug me or other members of the team when this happens).
+
+I'd like to end this by thanking everyone for making 2017 another very enjoyable year for osu!. 
+
+Thanks to everyone involved in the lazer project, including all the people that have contributed to it in some way. Thanks to everyone on the various osu! teams for keeping things running smoothly. Thanks to all the users out there — current and past — for mapping and playing the crap out of this game.
+
+Here's to many more years of osu!.
