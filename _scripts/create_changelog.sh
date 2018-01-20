@@ -17,7 +17,7 @@ title: dev changelog $title_date
 Hi guys. Back at you with updates since the last post, split into respective projects:"
 
 if [ ! -d $dir ]; then
-    mkdir $dir
+    mkdir -p $dir
 fi
 
 echo "$content" > $output_file
