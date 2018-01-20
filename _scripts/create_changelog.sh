@@ -34,7 +34,7 @@ do
 
     echo "Last tag: $last_tag"
 
-    $github_changelog_generator -o $name.md --since-tag $last_tag --max-issues 500 --no-issues --no-compare-link --release-branch master --simple-list https://github.com/ppy/$name
+    $github_changelog_generator -o $name.md --since-tag $last_tag --max-issues 500 --no-issues --no-compare-link --release-branch master --simple-list -u ppy -p $name
     gtail -n +5 $name.md | ghead -n -4 | sed 's/^## /#### /' > $name_trimmed.md
     
     if [ -s $name_trimmed.md ]; then 
