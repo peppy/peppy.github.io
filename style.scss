@@ -269,6 +269,20 @@ nav {
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 90%;
 
+      > h2 {
+        padding-top: 10px;
+        border-bottom: 1px solid rgba(0,0,0,0.1);
+      }
+
+      > h3 {
+        border-bottom: 1px solid rgba(0,0,0,0.05);
+      }
+
+      > h4 {
+        background: rgba($blue, 0.05);
+        border-radius: 2px;
+      }
+
       a {
         background: lighten($blue, 47);
         border-radius: 2px;
