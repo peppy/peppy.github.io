@@ -38,7 +38,7 @@ do
     gtail -n +5 $name.md | ghead -n -4 | sed 's/^## /#### /' > $name_trimmed.md
     
     if [ -s $name_trimmed.md ]; then 
-        echo -e "\n## [$name](https://github.com/ppy/$name) *$description*\n\n### Important Changes\n\n### Other Changes\n\n#### Unreleased changes" >> $output_file
+        echo -e "\n## [$name](https://github.com/ppy/$name) *$description*\n\n### Other Changes" >> $output_file
         
         cat $name_trimmed.md >> $output_file
 
