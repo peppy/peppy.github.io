@@ -269,6 +269,10 @@ nav {
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 90%;
 
+      > video {
+        width: 100%;
+      }
+
       > h2 {
         padding-top: 10px;
         border-bottom: 1px solid rgba(0,0,0,0.1);
