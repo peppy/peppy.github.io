@@ -13,6 +13,28 @@ We also have the new [changelog system](https://osu.ppy.sh/home/changelog) that 
 
 I'd just like to mention that much of the process we're following is heavily borrowing from the [vscode project](https://github.com/microsoft/vscode), so huge props to them for their amazing open development efforts and solid [development process](https://github.com/Microsoft/vscode/wiki/Development-Process). They obviously have a much larger team and dedicated project management so we are taking some shortcuts, but I'm pushing for more process as it feels feasible and productive.
 
+## June 2018 Goals
+
+### Move both `osu` and `osu-framework` to target netcore2.1
+
+I hope we can fix remaining netcore issues (mouse hiding and other native functionality) in order to make .NET core our primary target framework by the end of this month. The 2.1 release fixes the remaining issues we had with debugging the solution on macOS and brings performance on a level that surpasses both mono and .NET desktop (471).
+
+### Add automatic error reporting on hard crash
+
+Many people are reporting hard crash issues on github without knowledge of how to report correctly or fix. I hope to make this reporting automated (via Sentry) and remove this manual overhead.
+
+### Add automatic nuget package builds of `osu` and `osu-framework`
+
+As the number of projects depenent on these increases, referencing them via submodule is getting quite cumbersome. By deploying nuget packages we can more easily keep individual projects segregated and maintainable.
+
+### Complete the new changelog page
+
+As mentioned in my previous post, this will be the new hub for keeping track of the ongoing development efforts invested in osu!. Having the new design completely deployed will reduce the strain on me to manually produce changelogs in a blog format and hopefully make tracking development more accessible for the wider audience.
+
+### Move `osu-web` score lookups to elasticsearch
+
+I have been performing ongoing migration of MySQL servers to new hardware and software (5.6/5.7 to 8.0). In order to complete the last stages, I would first like to reduce load (and reliance) on the servers. Moving score lookups to elasticsearch will do this, but also allow for arbitrary lookups which have not been possible until now due to lack of indices.
+
 ## New Projects
 
 As we push forward with open sourcing each component of the osu! ecosystem, a few new git repositories have popped up which you may wish to follow:
