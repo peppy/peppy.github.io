@@ -27,6 +27,10 @@ Many people are reporting hard crash issues on github without knowledge of how t
 
 As the number of projects depenent on these increases, referencing them via submodule is getting quite cumbersome. By deploying nuget packages we can more easily keep individual projects segregated and maintainable.
 
+### Begin work on multiplayer lobby system
+
+With more of the UI designs nearing completion, it feels about time that we get the infrastructure in place for osu!lazer multiplayer. This is a stretch goal and will likely not reach the point of gameplay being possible, but the lobby and room system should at least have some client-server structure in place.
+
 ### Complete the new changelog page
 
 As mentioned in my previous post, this will be the new hub for keeping track of the ongoing development efforts invested in osu!. Having the new design completely deployed will reduce the strain on me to manually produce changelogs in a blog format and hopefully make tracking development more accessible for the wider audience.
@@ -49,7 +53,7 @@ This will contain server-side components that don't fit in the current laravel s
 
 ## [osu](https://github.com/ppy/osu) *The osu!lazer project. The future of the osu! client. Download preview releases from [here](https://github.com/ppy/osu/releases) and follow along!*
 
-### Other Changes
+### All Changes
 - Change Room.Participants to an IEnumerable [\#2703](https://github.com/ppy/osu/pull/2703) ([DrabWeb](https://github.com/DrabWeb))
 - Match beatmap overlay author styling with web [\#2700](https://github.com/ppy/osu/pull/2700) ([Joehuu](https://github.com/Joehuu))
 - Add storyboard icon and fix preview button overlap on direct panels [\#2695](https://github.com/ppy/osu/pull/2695) ([Joehuu](https://github.com/Joehuu))
@@ -148,7 +152,7 @@ This will contain server-side components that don't fit in the current laravel s
 
 ## [osu-framework](https://github.com/ppy/osu-framework) *The game framework behind osu!lazer. Written from scratch with osu! in mind, but very extensible.*
 
-### Other Changes
+### All Changes
 - Fix LastMousePosition not always being present when expected [\#1581](https://github.com/ppy/osu-framework/pull/1581) ([peppy](https://github.com/peppy))
 - Fix broken TransformSequence.Loop [\#1580](https://github.com/ppy/osu-framework/pull/1580) ([Tom94](https://github.com/Tom94))
 - Fix wheel values not being aggregated in raw mouse handler [\#1579](https://github.com/ppy/osu-framework/pull/1579) ([peppy](https://github.com/peppy))
@@ -187,19 +191,16 @@ This will contain server-side components that don't fit in the current laravel s
 
 ## [osu-web](https://github.com/ppy/osu-web) *The new web front-end. [Already live](https://osu.ppy.sh/home) but hasn't yet replaced the old site, pending feature parity.*
 
-### Other Changes
+### All Changes
 - Remove overlapping `last` function [\#3300](https://github.com/ppy/osu-web/pull/3300) ([nanaya](https://github.com/nanaya))
 - Allow empty changelog entries and fix converter [\#3295](https://github.com/ppy/osu-web/pull/3295) ([nanaya](https://github.com/nanaya))
-- Update translations [\#3294](https://github.com/ppy/osu-web/pull/3294) ([peppy](https://github.com/peppy))
 - Shorter column for indexing [\#3293](https://github.com/ppy/osu-web/pull/3293) ([nanaya](https://github.com/nanaya))
 - Style beatmapset discussion search form [\#3289](https://github.com/ppy/osu-web/pull/3289) ([nanaya](https://github.com/nanaya))
 - Fix discussion timestamp check [\#3288](https://github.com/ppy/osu-web/pull/3288) ([nanaya](https://github.com/nanaya))
 - Add webhook for GitHub pull request merges [\#3286](https://github.com/ppy/osu-web/pull/3286) ([nanaya](https://github.com/nanaya))
 - Return json on error for a json request [\#3285](https://github.com/ppy/osu-web/pull/3285) ([nanaya](https://github.com/nanaya))
 - Medal assets for Mappers' Guild Pack II and Cranky [\#3280](https://github.com/ppy/osu-web/pull/3280) ([Ephemeralis](https://github.com/Ephemeralis))
-- Update translations [\#3277](https://github.com/ppy/osu-web/pull/3277) ([peppy](https://github.com/peppy))
 - Match C\# Math.Round for calculating convert keys [\#3276](https://github.com/ppy/osu-web/pull/3276) ([nanaya](https://github.com/nanaya))
-- Update translations [\#3270](https://github.com/ppy/osu-web/pull/3270) ([peppy](https://github.com/peppy))
 - Unbreak lodash [\#3269](https://github.com/ppy/osu-web/pull/3269) ([nanaya](https://github.com/nanaya))
 - Fix incorrect closing tag [\#3268](https://github.com/ppy/osu-web/pull/3268) ([nanaya](https://github.com/nanaya))
 - Add April Spotlights medal assets [\#3267](https://github.com/ppy/osu-web/pull/3267) ([Ephemeralis](https://github.com/Ephemeralis))
@@ -221,7 +222,6 @@ This will contain server-side components that don't fit in the current laravel s
 - Fix one missed translation key update [\#3247](https://github.com/ppy/osu-web/pull/3247) ([nanaya](https://github.com/nanaya))
 - Remove unused view [\#3246](https://github.com/ppy/osu-web/pull/3246) ([nanaya](https://github.com/nanaya))
 - Show unranked update date in card [\#3245](https://github.com/ppy/osu-web/pull/3245) ([nanaya](https://github.com/nanaya))
-- Update translations [\#3244](https://github.com/ppy/osu-web/pull/3244) ([peppy](https://github.com/peppy))
 - Conditionally activate nav button javascript [\#3243](https://github.com/ppy/osu-web/pull/3243) ([nanaya](https://github.com/nanaya))
 - Add github link to legal/status footer [\#3242](https://github.com/ppy/osu-web/pull/3242) ([nanaya](https://github.com/nanaya))
 - Remove supporter icon background color [\#3241](https://github.com/ppy/osu-web/pull/3241) ([nanaya](https://github.com/nanaya))
@@ -232,29 +232,24 @@ This will contain server-side components that don't fit in the current laravel s
 - Fix avatar background in beatmap favorite popup [\#3236](https://github.com/ppy/osu-web/pull/3236) ([nanaya](https://github.com/nanaya))
 - Add social buttons menu bar [\#3235](https://github.com/ppy/osu-web/pull/3235) ([nanaya](https://github.com/nanaya))
 - Never display iframe borders [\#3234](https://github.com/ppy/osu-web/pull/3234) ([peppy](https://github.com/peppy))
-- Update translations [\#3232](https://github.com/ppy/osu-web/pull/3232) ([peppy](https://github.com/peppy))
 - Change new approved beatmaps to new ranked beatmaps [\#3230](https://github.com/ppy/osu-web/pull/3230) ([VenixOSU](https://github.com/VenixOSU))
 - Don't add to error array if empty [\#3228](https://github.com/ppy/osu-web/pull/3228) ([notbakaneko](https://github.com/notbakaneko))
 - Order checkout validation does not support null carts [\#3227](https://github.com/ppy/osu-web/pull/3227) ([notbakaneko](https://github.com/notbakaneko))
 - Add loved beatmaps to user profile [\#3226](https://github.com/ppy/osu-web/pull/3226) ([notbakaneko](https://github.com/notbakaneko))
 - Add toggle to block private messages from non-friends [\#3225](https://github.com/ppy/osu-web/pull/3225) ([nekodex](https://github.com/nekodex))
 - Add user events for supporter and username changes [\#3222](https://github.com/ppy/osu-web/pull/3222) ([notbakaneko](https://github.com/notbakaneko))
-- Update translations [\#3221](https://github.com/ppy/osu-web/pull/3221) ([peppy](https://github.com/peppy))
 - Better wording on mapper info [\#3220](https://github.com/ppy/osu-web/pull/3220) ([nanaya](https://github.com/nanaya))
 - Cleanup trans and trans\_choice [\#3216](https://github.com/ppy/osu-web/pull/3216) ([nanaya](https://github.com/nanaya))
 - beatmappacks.php source string update [\#3214](https://github.com/ppy/osu-web/pull/3214) ([notbakaneko](https://github.com/notbakaneko))
 - Store checkout and validation updates [\#3213](https://github.com/ppy/osu-web/pull/3213) ([notbakaneko](https://github.com/notbakaneko))
 - Don't release stock if at 0 [\#3212](https://github.com/ppy/osu-web/pull/3212) ([notbakaneko](https://github.com/notbakaneko))
-- Update translations [\#3211](https://github.com/ppy/osu-web/pull/3211) ([peppy](https://github.com/peppy))
 - fallback keys should still be translated in case they are supposed to be empty. [\#3210](https://github.com/ppy/osu-web/pull/3210) ([notbakaneko](https://github.com/notbakaneko))
 - Show past tournaments on the tournament listing [\#3209](https://github.com/ppy/osu-web/pull/3209) ([nekodex](https://github.com/nekodex))
 - Delete scores on qualification [\#3207](https://github.com/ppy/osu-web/pull/3207) ([nanaya](https://github.com/nanaya))
 - No nomination by mapper [\#3206](https://github.com/ppy/osu-web/pull/3206) ([nanaya](https://github.com/nanaya))
-- Update translations [\#3205](https://github.com/ppy/osu-web/pull/3205) ([peppy](https://github.com/peppy))
 - Fix ranking page titles [\#3204](https://github.com/ppy/osu-web/pull/3204) ([nanaya](https://github.com/nanaya))
 - Pre-check topic create auth [\#3203](https://github.com/ppy/osu-web/pull/3203) ([nanaya](https://github.com/nanaya))
 - Fix mode switching in discussion [\#3202](https://github.com/ppy/osu-web/pull/3202) ([nanaya](https://github.com/nanaya))
-- Update translations [\#3201](https://github.com/ppy/osu-web/pull/3201) ([peppy](https://github.com/peppy))
 - Don't escape trans where markup is passed by param [\#3199](https://github.com/ppy/osu-web/pull/3199) ([notbakaneko](https://github.com/notbakaneko))
 - New Crowdin translations [\#3195](https://github.com/ppy/osu-web/pull/3195) ([peppy](https://github.com/peppy))
 - Override trans to ignore empty strings [\#3194](https://github.com/ppy/osu-web/pull/3194) ([nanaya](https://github.com/nanaya))
