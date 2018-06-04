@@ -13,7 +13,7 @@ We also have the new [changelog system](https://osu.ppy.sh/home/changelog) that 
 
 I'd just like to mention that much of the process we're following is heavily borrowing from the [vscode project](https://github.com/microsoft/vscode), so huge props to them for their amazing open development efforts and solid [development process](https://github.com/Microsoft/vscode/wiki/Development-Process). They obviously have a much larger team and dedicated project management so we are taking some shortcuts, but I'm pushing for more process as it feels feasible and productive.
 
-## June 2018 Goals
+# June 2018 Goals
 
 ### Move both `osu` and `osu-framework` to target netcore2.1
 
@@ -39,7 +39,7 @@ As mentioned in my previous post, this will be the new hub for keeping track of 
 
 I have been performing ongoing migration of MySQL servers to new hardware and software (5.6/5.7 to 8.0). In order to complete the last stages, I would first like to reduce load (and reliance) on the servers. Moving score lookups to elasticsearch will do this, but also allow for arbitrary lookups which have not been possible until now due to lack of indices.
 
-## New Projects
+# New Projects
 
 As we push forward with open sourcing each component of the osu! ecosystem, a few new git repositories have popped up which you may wish to follow:
 
@@ -51,7 +51,15 @@ This will contain any command line tools (.NET core) which consume lazer. Curren
 
 This will contain server-side components that don't fit in the current laravel system. This repository is still undergoing some structural consideration as we decide how many git repos we want, but for now will house the .NET core version of [osu-performance](https://github.com/ppy/osu-performance) (Performance Point calculations) and a new Elasticsearch score indexer – part of an ongoing effort to alleviate MySQL of the heavy load of score/leaderboard lookups.
 
+# May 2018 Review
+
 ## [osu](https://github.com/ppy/osu) *The osu!lazer project. The future of the osu! client. Download preview releases from [here](https://github.com/ppy/osu/releases) and follow along!*
+
+- Fix catch sizing [\#2632](https://github.com/ppy/osu/pull/2632) ([peppy](https://github.com/peppy))
+- Fix conflicting Hash and Online IDs on beatmap import [\#2673](https://github.com/ppy/osu/pull/2673) ([peppy](https://github.com/peppy))
+- Fix beatmap importing entering a bad state [\#2665](https://github.com/ppy/osu/pull/2665) ([peppy](https://github.com/peppy))
+- Add hold-to-quit button for gameplay/replays [\#2430](https://github.com/ppy/osu/pull/2430) ([UselessToucan](https://github.com/UselessToucan))
+- Implement joystick input [\#2346](https://github.com/ppy/osu/pull/2346) ([smoogipoo](https://github.com/smoogipoo))
 
 ### All Changes
 - Change Room.Participants to an IEnumerable [\#2703](https://github.com/ppy/osu/pull/2703) ([DrabWeb](https://github.com/DrabWeb))
@@ -64,14 +72,11 @@ This will contain server-side components that don't fit in the current laravel s
 - Offload database query to task [\#2680](https://github.com/ppy/osu/pull/2680) ([peppy](https://github.com/peppy))
 - Fix player life management [\#2679](https://github.com/ppy/osu/pull/2679) ([peppy](https://github.com/peppy))
 - Fix Debug mode instead of Release mode for mono debug target [\#2677](https://github.com/ppy/osu/pull/2677) ([Tom94](https://github.com/Tom94))
-- Fix conflicting Hash and Online IDs on beatmap import [\#2673](https://github.com/ppy/osu/pull/2673) ([peppy](https://github.com/peppy))
 - Add Type property to MultiplayerScreen [\#2672](https://github.com/ppy/osu/pull/2672) ([DrabWeb](https://github.com/DrabWeb))
 - Add build tasks for visual tests and fix broken launch tasks [\#2671](https://github.com/ppy/osu/pull/2671) ([Tom94](https://github.com/Tom94))
-- Fix beatmap importing entering a bad state [\#2665](https://github.com/ppy/osu/pull/2665) ([peppy](https://github.com/peppy))
 - Fix results screen parallax being cut off [\#2663](https://github.com/ppy/osu/pull/2663) ([smoogipoo](https://github.com/smoogipoo))
 - Fix mania hold notes displaying judgements [\#2660](https://github.com/ppy/osu/pull/2660) ([smoogipoo](https://github.com/smoogipoo))
 - Ensure autoplay tests actually increase score above zero [\#2644](https://github.com/ppy/osu/pull/2644) ([peppy](https://github.com/peppy))
-- Fix catch sizing [\#2632](https://github.com/ppy/osu/pull/2632) ([peppy](https://github.com/peppy))
 - Multiplayer lounge [\#2603](https://github.com/ppy/osu/pull/2603) ([DrabWeb](https://github.com/DrabWeb))
 - Split score multiplier and unranked label colours [\#2314](https://github.com/ppy/osu/pull/2314) ([Joehuu](https://github.com/Joehuu))
 - Rename CursorOverrideContainer to MenuCursorContainer [\#2637](https://github.com/ppy/osu/pull/2637) ([HoutarouOreki](https://github.com/HoutarouOreki))
@@ -93,7 +98,6 @@ This will contain server-side components that don't fit in the current laravel s
 - Prevent overlays from showing in intro/outro sequences [\#2577](https://github.com/ppy/osu/pull/2577) ([Aergwyn](https://github.com/Aergwyn))
 - Add global key bindings for changing current ruleset [\#2532](https://github.com/ppy/osu/pull/2532) ([ocboogie](https://github.com/ocboogie))
 - DrawableRoom improvements [\#2522](https://github.com/ppy/osu/pull/2522) ([DrabWeb](https://github.com/DrabWeb))
-- Add hold-to-quit button for gameplay/replays [\#2430](https://github.com/ppy/osu/pull/2430) ([UselessToucan](https://github.com/UselessToucan))
 - Fix HR mod affecting original beatmap difficulty [\#2582](https://github.com/ppy/osu/pull/2582) ([smoogipoo](https://github.com/smoogipoo))
 - Implement taiko performance calculation [\#2572](https://github.com/ppy/osu/pull/2572) ([smoogipoo](https://github.com/smoogipoo))
 - Fix taiko slider multiplier being applied twice [\#2568](https://github.com/ppy/osu/pull/2568) ([smoogipoo](https://github.com/smoogipoo))
@@ -128,7 +132,6 @@ This will contain server-side components that don't fit in the current laravel s
 - Fix osu! difficulty/performance calculation failing or giving wrong values [\#2525](https://github.com/ppy/osu/pull/2525) ([smoogipoo](https://github.com/smoogipoo))
 - Implement a hold-to-confirm screen when exiting game using escape key [\#2514](https://github.com/ppy/osu/pull/2514) ([peppy](https://github.com/peppy))
 - Change mapping delete key to shift+delete to allow binding delete key [\#2375](https://github.com/ppy/osu/pull/2375) ([aQaTL](https://github.com/aQaTL))
-- Implement joystick input [\#2346](https://github.com/ppy/osu/pull/2346) ([smoogipoo](https://github.com/smoogipoo))
 - Update framework with upstream fixes [\#2530](https://github.com/ppy/osu/pull/2530) ([peppy](https://github.com/peppy))
 - Multiplayer folder restructure [\#2519](https://github.com/ppy/osu/pull/2519) ([DrabWeb](https://github.com/DrabWeb))
 - BreadcrumbControl design adjustments [\#2518](https://github.com/ppy/osu/pull/2518) ([DrabWeb](https://github.com/DrabWeb))
