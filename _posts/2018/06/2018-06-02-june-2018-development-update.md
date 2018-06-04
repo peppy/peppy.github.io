@@ -17,7 +17,7 @@ I'd just like to mention that much of the process we're following is heavily bor
 
 In an interest of establishing a schedule we can adhere to, I'm going to keep the goals slim this month. Not mentioned in this list is the huge backlog of issues that require fixing, which can be found assigned to the [respective](https://github.com/ppy/osu/milestone/36) [monthly](https://github.com/ppy/osu-framework/milestone/13) [milestones](https://github.com/ppy/osu-web/milestone/13).
 
-### Move both `osu` and `osu-framework` to target netcore2.1
+### Move both osu and osu-framework to target netcore2.1
 
 I hope we can fix remaining netcore issues (mouse hiding and other native functionality) in order to make .NET core our primary target framework by the end of this month. The 2.1 release fixes the remaining issues we had with debugging the solution on macOS and brings performance on a level that surpasses both mono and .NET desktop (471).
 
@@ -25,7 +25,7 @@ I hope we can fix remaining netcore issues (mouse hiding and other native functi
 
 Many people are reporting hard crash issues on github without knowledge of how to report correctly or fix. I hope to make this reporting automated (via Sentry) and remove this manual overhead.
 
-### Add automatic nuget package builds of `osu` and `osu-framework`
+### Add automatic nuget package builds of osu and osu-framework
 
 As the number of projects dependent on these increases, referencing them via submodule is getting quite cumbersome. By deploying nuget packages we can more easily keep individual projects segregated and maintainable.
 
@@ -65,9 +65,15 @@ This will contain server-side components that don't fit in the current laravel s
 
 ## Milestone completion
 
+### osu
+
 ![](https://puu.sh/AyG14/3f429ef860.png)
 
+### osu-framework
+
 ![](https://puu.sh/AyG1N/187266c4cc.png)
+
+### osu-web
 
 ![](https://puu.sh/AyG1X/11a9fd9c49.png)
 
