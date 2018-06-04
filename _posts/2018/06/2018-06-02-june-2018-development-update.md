@@ -1,6 +1,6 @@
 ---
 title: June 2018 Development Update
-date: 2018-05-04
+date: 2018-06-04
 ---
 
 Hello everyone!
