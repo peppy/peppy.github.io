@@ -41,7 +41,7 @@ As we move the editor forward, we want to allow for arbitrary rulesets to be eas
 
 As mentioned in my previous post, this will be the new hub for keeping track of the ongoing development efforts invested in osu!. Having the new design completely deployed will reduce the strain on me to manually produce changelogs in a blog format and hopefully make tracking development more accessible for the wider audience.
 
-### Move `osu-web` score lookups to elasticsearch
+### Move osu-web score lookups to elasticsearch
 
 I have been performing ongoing migration of MySQL servers to new hardware and software (5.6/5.7 to 8.0). In order to complete the last stages, I would first like to reduce load (and reliance) on the servers. Moving score lookups to elasticsearch will do this, but also allow for arbitrary lookups which have not been possible until now due to lack of indices.
 
