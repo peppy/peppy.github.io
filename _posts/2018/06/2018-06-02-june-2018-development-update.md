@@ -260,7 +260,7 @@ See above.
 
 One of my pet peeves, finally fixed. Loading spinners are now perfectly centred.
 
-![](https://puu.sh/AyKzn/0865561836.gif)
+![](https://puu.sh/AyKzn/0865561836.gif)
 
 ### Add social buttons menu bar [\#3235](https://github.com/ppy/osu-web/pull/3235) ([nanaya](https://github.com/nanaya))
 
