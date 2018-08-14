@@ -56,7 +56,7 @@ Sliders which use a linear curve style felt a bit ugly when snaking in due to th
 
 ### Move both osu and osu-framework to target netcore2.1 *COMPLETE*
 
-All framework and osu! deployments are not 100% netcore2.1! This is a huge step forward and allows us to focus on making the net core experience as good as possible. It also means that release builds are running on the same runtime as we are using to debug, which makes it easier to locate issues before they are deployed to a production environment.
+All framework and osu! deployments are now 100% netcore2.1! This is a huge step forward and allows us to focus on making the net core experience as good as possible. It also means that release builds are running on the same runtime as we are using to debug, which makes it easier to locate issues before they are deployed to a production environment.
 
 To make this happen, I ended up forking and publishing out own [squirrel.windows](https://www.nuget.org/packages/ppy.squirrel.windows/) packages to keep automatic update support working on windows builds.
 
