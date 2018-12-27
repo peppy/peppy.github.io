@@ -131,5 +131,3 @@ A huge pat on the back to the whole osu! team (devs, community managers, BNs, QA
 I was planning on doing a blog catching up on Q4 2018, but due to time constraints it will likely happen sometime in January. Hopefully this makes up for it :).
 
 Wishing you all a great new year period. Much of the team will be away on a well-deserved break for next week or so, but **we’ll be in touch soon!**
-
-
