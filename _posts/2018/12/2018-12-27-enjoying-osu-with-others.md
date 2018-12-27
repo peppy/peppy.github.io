@@ -30,7 +30,7 @@ As lazer is a very open development project, we don’t want to develop the whol
 
 “timeshift” brings multiplayer rooms that can run over a longer period of time and involve large numbers of players. The room owner will be able to set the specifications for the room, along with a duration. During this specified time range, players will be able to join the room and compete in a localised leaderboard instance.
 
-Think of it as synchronous multiplayer.
+Think of it as asynchronous multiplayer.
 
 ![](https://puu.sh/CnJOf/36eb861a4e.png)
 
