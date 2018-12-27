@@ -1,5 +1,7 @@
 ---
 title: Enjoying osu! with others
+date: 2018-12-27
+published: true
 ---
 
 As 2018 draws to a close, I want to touch on something which I’ve felt strongly about for a while now. While I’ve described my thoughts and intentions in private to people I’ve met up with, this will be the first time discussing this publicly.
@@ -20,11 +22,13 @@ The leaderboards and pp will always have their place in this community, but I do
 
 From today, a new multiplayer system is live in lazer. I have been working on the logistics of this for several months on paper, and the team has spent the month of December focusing on this internally in relative secrecy.
 
-As lazer is a very open development project, we don’t want to develop the whole system behind a curtain. Therefore we have developed a MVP (minimum viable product) that you can enjoy from today, but will continue to build on it going forward.
+As lazer is a very open development project, we don’t want to develop the whole system behind a curtain. Therefore we have developed a MVP (minimum viable product) that you can enjoy from today, but will continue to build on it more openly going forward. Huge props to [smoogipoo](https://osu.ppy.sh/users/1040328), [nanaya](https://osu.ppy.sh/users/2387883), [notbakaneko](https://osu.ppy.sh/users/10751776), [nekodex](https://osu.ppy.sh/users/102) who all came together to make this happen in a relatively short period!
 
-# Introducing “Timeshift” multiplayer
+![timeshift](https://puu.sh/CnKDe/d05084eedc.jpg)
 
-*“Timeshift”* brings multiplayer rooms that can run over a longer period of time and involve large numbers of players. The room owner will be able to set the specifications for the room, along with a duration. During this specified time range, players will be able to join the room and compete in a localised leaderboard instance.
+# Introducing “timeshift” multiplayer
+
+“timeshift” brings multiplayer rooms that can run over a longer period of time and involve large numbers of players. The room owner will be able to set the specifications for the room, along with a duration. During this specified time range, players will be able to join the room and compete in a localised leaderboard instance.
 
 Think of it as synchronous multiplayer.
 
@@ -80,7 +84,7 @@ And that’s as far as I’m willing to go when it comes to explaining the progr
 
 ### When is it available?
 
-Now. [Go get lazer](https://github.com/ppy/osu/releases/) if you haven’t already and install it alongside your stable install! It’s more stable than you may think.
+Now. [Go get lazer](https://github.com/ppy/osu/releases/) if you haven’t already and install it alongside your stable install! It’s more stable than you may think, and available for windows *and* macOS (linux too if you compile it yourself).
 
 Global leaderboard submission is of course not in lazer yet, so enjoy a different and possibly more chill experience than you’re used to.
 
@@ -112,6 +116,10 @@ That’s perfectly fine! In fact, if you enjoy solo play for leaderboards you **
 
 If you don’t, nothing is forcing you to play it. Global leaderboards are not going anywhere.
 
+### It's buggy
+
+We have plenty of work ahead of us. Go easy on it in the mean time.
+
 ## This is our final surprise for 2018
 
 I hope we can all agree it’s been an amazing year and we’ve ended it with some amazing notes!
@@ -122,6 +130,6 @@ A huge pat on the back to the whole osu! team (devs, community managers, BNs, QA
 
 I was planning on doing a blog catching up on Q4 2018, but due to time constraints it will likely happen sometime in January. Hopefully this makes up for it :).
 
-Wishing you all a great new year period. **We’ll be in touch soon**.
+Wishing you all a great new year period. Much of the team will be away on a well-deserved break for next week or so, but **we’ll be in touch soon!**
 
 
