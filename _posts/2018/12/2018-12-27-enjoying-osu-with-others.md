@@ -106,6 +106,10 @@ I can understand this concern, but I have already planned a logical progression 
 
 Once we flesh out the timeshift system and get to the point we can add cooperative modes, it *will* happen. Mark my words.
 
+### Can we view this from the web site / our profiles?
+
+We are working on adding participation history and overall visibility on the web. This will come a bit later!
+
 ### Will room history be maintained from the outset?
 
 We’ll do our best to maintain all history, but as this is a new system do understand if we need to delete data for one reason or another. Possibly multiple times.
