@@ -75,6 +75,7 @@ Going forward, here are a few of the coming options (the system has been designe
 Current room creation limitations:
 
 * 1 concurrent room for non-supporters, 5 rooms for supporters.
+* Duration is limited to 24 hours while we stabilise things. Eventually this will be allowed to be much longer.
 
 We have more ideas, but these are the base ones we will be working on in the coming weeks and months. Also, important to note that lazer already has four or five unique mods not found in stable, and this number is only set to increase! User contributed mods are being openly accepted and each new mod increases the number of creative possibilities when it comes to designing a fun multiplayer room!
 
