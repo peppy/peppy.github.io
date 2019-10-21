@@ -4,7 +4,7 @@ date: 2019-10-21T00:00:00.000Z
 published: true
 ---
 
-With the [osu!lazer](https://github.com/ppy/osu) project creeping closer and closer to being a feasible alternative to `osu-stable`, the number of questions I receive on a daily basis is growing. Let's take a step back and answer some of the most frequency asked questions, source from [you guys](https://twitter.com/ppy/status/1185435593393573888).
+With the [osu!lazer](https://github.com/ppy/osu) project creeping closer and closer to being a feasible alternative to `osu-stable`, the number of questions I receive on a daily basis is growing. Let's take a step back and answer some of the most frequency asked questions, sourced from [you guys](https://twitter.com/ppy/status/1185435593393573888).
 
 ## Development and Release Schedule
 
@@ -34,7 +34,7 @@ Along the way, we ran into some serious blocking issues which resulted in the de
 
 Since then we have been working extra-hard to build both a [game framework](https://github.com/ppy/osu-framework) and rebuild all the intricacies of osu!, while also fixing all the issues that existed in the old codebase to allow for implementing new features and extending on the game more than ever before.
 
-![](https://raw.githubusercontent.com/ppy/osu-framework/750c65cfd098a2e9b6bffdd44912ce4ad46e5015/assets/o!f%20Logo%20Powered%20Horizontal%20Large%20FC.png)
+[![](https://raw.githubusercontent.com/ppy/osu-framework/750c65cfd098a2e9b6bffdd44912ce4ad46e5015/assets/o!f%20Logo%20Powered%20Horizontal%20Large%20FC.png)](https://github.com/ppy/osu-framework)
 
 We hope you can understand how excited we are to have this opportunity. The decision could only be made because we already have such a stable game client which (in general) satisfies the community's needs quite well.
 
