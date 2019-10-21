@@ -70,7 +70,7 @@ While our primary goal is feature parity with stable, there are already some fea
 
 ### Many new mods
 
-<video src="https://puu.sh/Ev36O/a70aa334dd.mp4" controls="" preload="metadata" loop="" autoplay="">
+<video src="https://puu.sh/Ev36O/a70aa334dd.mp4" controls="" preload="metadata" loop="">
 </video>
 
 We have already had several user-contribute mods, and welcome contributions of new and interesting takes on gameplay (we are sure many more will come!). Combine from the vast array of new mods to create unique custom challenges. 
@@ -83,7 +83,7 @@ This will pave the way for localised leaderboards that can be created and custom
 
 ### The ability to change settings anywhere and have them immediately take effect
 
-<video src="https://puu.sh/Ev38V/563d52d0f0.mp4" controls="" preload="metadata" loop="" autoplay="">
+<video src="https://puu.sh/Ev38V/563d52d0f0.mp4" controls="" preload="metadata" loop="">
 </video>
 
 Every single setting game-wide is made to take immediate effect. Hit ctrl-o anywhere to bring up the options (or ctrl-t to bring up the toolbar) and change a setting to get a real-time preview!
@@ -94,7 +94,7 @@ The end goal is to have a user-first experience that feels like its own custom o
 
 ### Access to most of the web-only content from within the game (news, changelogs, user profiles, rankings, beatmap info)
 
-<video src="https://puu.sh/Ev3gS/9934cd678c.mp4" controls="" preload="metadata" loop="" autoplay="">
+<video src="https://puu.sh/Ev3gS/9934cd678c.mp4" controls="" preload="metadata" loop="">
 </video>
 
 The end goal is to make the game stand-alone from the web site.
@@ -107,7 +107,7 @@ This is one of the first new gameplay UI additions. More will be coming, giving 
 
 ### The ability to seek in replays
 
-<video src="https://puu.sh/Ev3pE/afa37c9deb.mp4" controls="" preload="metadata" loop="" autoplay="">
+<video src="https://puu.sh/Ev3pE/afa37c9deb.mp4" controls="" preload="metadata" loop="">
 </video>
 
 A long-standing feature request. The framework is also in place to allow rewind/replay support from point-in-time, paving the way for a "practice section" mode or similar.
@@ -120,14 +120,14 @@ We've rewritten the beatmap database to allow for more flexibility and extensibi
 
 ### Soft delete everywhere
 
-<video src="https://puu.sh/Ev3rT/4e1efb90a4.mp4" controls="" preload="metadata" loop="" autoplay="">
+<video src="https://puu.sh/Ev3rT/4e1efb90a4.mp4" controls="" preload="metadata" loop="">
 </video>
 
 If you make a mistake, you will be able to undo delete operations.
 
 ### The ability to change the size and scale of the game with super-fine control.
 
-<video src="https://puu.sh/Ev33Y/78ed915a6e.mp4" controls="" preload="metadata" loop="" autoplay="">
+<video src="https://puu.sh/Ev33Y/78ed915a6e.mp4" controls="" preload="metadata" loop="">
 </video>
 
 This will allow players to remain in exclusive fullscreen (for lowest latency) while having full customisation of their UI and gameplay areas. You can choose whether to scale everything, just the menus, or just the gameplay for extremely fine control over your personal layout!
