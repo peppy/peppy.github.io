@@ -66,17 +66,71 @@ In a similar way to stable and the stable-fallback release stream, the existing 
 
 ### What's new in lazer?
 
-While our primary goal is feature parity with stable, there are already some features that are exclusively available in lazer:
+While our primary goal is feature parity with stable, there are already some features that are exclusively available in lazer
 
-- Many new mods
-- A new "timeshift" multiplayer mode (read more about this [here](https://blog.ppy.sh/enjoying-osu-with-others/))
-- The ability to change settings anywhere and have them immediately take effect
-- A more streamlined UI and a fresh design
-- Access to most of the web-only content from within the game (news, changelogs, user profiles, rankings, beatmap info)
-- A song density graph in gameplay
-- The ability to seek in replays
-- The ability to hide difficulties
-- Soft delete everywhere — you can restore beatmaps after deleting if you made a mistake
+### Many new mods
+
+<video src="https://puu.sh/Ev36O/a70aa334dd.mp4" controls="" preload="metadata" loop="" autoplay="">
+</video>
+
+We have already had several user-contribute mods, and welcome contributions of new and interesting takes on gameplay (we are sure many more will come!). Combine from the vast array of new mods to create unique custom challenges. 
+
+### A new "timeshift" multiplayer mode (read more about this [here](https://blog.ppy.sh/enjoying-osu-with-others/)).
+
+[![](https://puu.sh/CnKDe/d05084eedc.jpg)](https://blog.ppy.sh/enjoying-osu-with-others/)
+
+This will pave the way for localised leaderboards that can be created and customised by the community. Of course, traditional real-time multiplayer will also be added in the future.
+
+### The ability to change settings anywhere and have them immediately take effect
+
+<video src="https://puu.sh/Ev38V/563d52d0f0.mp4" controls="" preload="metadata" loop="" autoplay="">
+</video>
+
+Every single setting game-wide is made to take immediate effect. Hit ctrl-o anywhere to bring up the options (or ctrl-t to bring up the toolbar) and change a setting to get a real-time preview!
+
+### A more streamlined UI and a fresh design
+
+The end goal is to have a user-first experience that feels like its own custom operating system. And will be nicely scalable across all screen sizes and resolutions.
+
+### Access to most of the web-only content from within the game (news, changelogs, user profiles, rankings, beatmap info)
+
+<video src="https://puu.sh/Ev3gS/9934cd678c.mp4" controls="" preload="metadata" loop="" autoplay="">
+</video>
+
+The end goal is to make the game stand-alone from the web site.
+
+### A song density graph in gameplay
+
+![](https://puu.sh/Ev3oD/52dcbde6c3.png)
+
+This is one of the first new gameplay UI additions. More will be coming, giving better insights into your gameplay and performance.
+
+### The ability to seek in replays
+
+<video src="https://puu.sh/Ev3pE/afa37c9deb.mp4" controls="" preload="metadata" loop="" autoplay="">
+</video>
+
+A long-standing feature request. The framework is also in place to allow rewind/replay support from point-in-time, paving the way for a "practice section" mode or similar.
+
+### The ability to hide difficulties
+
+![](https://puu.sh/Ev3qL/3f00193b30.png)
+
+We've rewritten the beatmap database to allow for more flexibility and extensibility into the future.
+
+### Soft delete everywhere
+
+<video src="https://puu.sh/Ev3rT/4e1efb90a4.mp4" controls="" preload="metadata" loop="" autoplay="">
+</video>
+
+If you make a mistake, you will be able to undo delete operations.
+
+### The ability to change the size and scale of the game with super-fine control.
+
+<video src="https://puu.sh/Ev33Y/78ed915a6e.mp4" controls="" preload="metadata" loop="" autoplay="">
+</video>
+
+This will allow players to remain in exclusive fullscreen (for lowest latency) while having full customisation of their UI and gameplay areas. You can choose whether to scale everything, just the menus, or just the gameplay for extremely fine control over your personal layout!
 
 ### Will xxx feature be implemented in lazer?
 
@@ -166,7 +220,7 @@ We will never reset the leaderboards. No final decisions are made yet, but the c
 
 We haven't made a decision about this one yet. It may be applied only in places it doesn't affect the playability of the map (using predetermined rules) or may only be applied to new beatmaps.
 
-### Where do I get lazer?
+## Where do I get lazer?
 
 You can find the latest release available for Windows, macOS, iOS and android [here](https://github.com/ppy/osu#releases).
 
