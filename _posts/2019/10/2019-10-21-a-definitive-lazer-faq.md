@@ -4,10 +4,11 @@ date: 2019-10-21T00:00:00.000Z
 published: true
 ---
 
+With the [osu!lazer](https://github.com/ppy/osu) project creeping closer and closer to being a feasible alternative to `osu-stable`, the number of questions I receive on a daily basis is growing. Let's take a step back and answer some of the most frequency asked questions, source from [you guys](https://twitter.com/ppy/status/1185435593393573888).
 
 ## Development and Release Schedule
 
-### Is osu!lazer a new game or an update?
+### What is lazer / Is osu!lazer a new game or an update?
 
 "lazer" is just a codename for the development project. When we're done, lazer will become "osu!" and be released as an update for the existing client. It will migrate all existing user content and work on (basically) any system which osu-stable could run on.
 
@@ -33,11 +34,15 @@ Along the way, we ran into some serious blocking issues which resulted in the de
 
 Since then we have been working extra-hard to build both a [game framework](https://github.com/ppy/osu-framework) and rebuild all the intricacies of osu!, while also fixing all the issues that existed in the old codebase to allow for implementing new features and extending on the game more than ever before.
 
+![](https://raw.githubusercontent.com/ppy/osu-framework/750c65cfd098a2e9b6bffdd44912ce4ad46e5015/assets/o!f%20Logo%20Powered%20Horizontal%20Large%20FC.png)
+
 We hope you can understand how excited we are to have this opportunity. The decision could only be made because we already have such a stable game client which (in general) satisfies the community's needs quite well.
 
 ### Why is it taking so long?
 
-We are aiming for perfection. That has meant, on several occasions, writing and rewriting systems until we are content that they will last well into the future. What we are working on is not a temporary solution, rather something to carry the osu! community through the rest of its (hopefully long) life.
+We are aiming for perfection.
+
+That has meant, on several occasions, writing and rewriting systems until we are content that they will last well into the future. What we are working on is not a temporary solution, rather something to carry the osu! community through the rest of its (hopefully long) life.
 
 We are also taking the time to involve the community via open source, allowing anyone to contribute code.
 
@@ -51,7 +56,7 @@ There are a few benefits of taking this time and diligence:
 
 I have always wanted osu! to be open source. It is part of my belief that game development and operation should be very transparent to the end user. It may take a bit longer to do development in the open, but we are already seeing appreciation from other devs (and users) for making this move.
 
-It also ensures that osu! can live on beyond me. If something were to happen to me, it is very feasible that members of the community can take over development into the foreseeable future.
+It also ensures that osu! can live on beyond me. If something were to happen, it is very feasible that members of the team and community can take over development into the foreseeable future.
 
 ### Will there be a transition period where I can use stable?
 
@@ -71,7 +76,7 @@ While our primary goal is feature parity with stable, there are already some fea
 - A song density graph in gameplay
 - The ability to seek in replays
 - The ability to hide difficulties
-- Soft delete everywhere – you can restore beatmaps after deleting if you made a mistake
+- Soft delete everywhere — you can restore beatmaps after deleting if you made a mistake
 
 ### Will xxx feature be implemented in lazer?
 
