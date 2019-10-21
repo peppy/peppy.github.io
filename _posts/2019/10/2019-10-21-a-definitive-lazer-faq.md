@@ -188,6 +188,10 @@ We will be adding more skin support after we're happy with the existing gameplay
 
 Yes, these are in development. For now, you can connect a hardware keyboard.
 
+### Will there be touch controls for taiko/catch/mania?
+
+Yes, these are also in development!
+
 ### Will circles be larger on mobile?
 
 Gameplay will likely get larger, yes.
