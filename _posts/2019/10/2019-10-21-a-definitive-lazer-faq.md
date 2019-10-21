@@ -75,7 +75,7 @@ While our primary goal is feature parity with stable, there are already some fea
 
 ### Will xxx feature be implemented in lazer?
 
-We are primarily working on feature parity, but if the feature you've asked for has been something people have been asking for for quite a will, you can be 90% sure that it is one of the reasons we are working so hard to rewrite osu! in the first place!
+We are primarily working on feature parity, but if the feature you've asked for has been something people have been asking for for quite a while, you can be 90% sure that it is one of the reasons we are working so hard to rewrite osu! in the first place!
 
 ### Why is xxx feature being implemented in lazer but not stable?
 
@@ -109,7 +109,7 @@ Likewise, we also predict the system requirements will be _equal or lower_ than 
 
 ### I've tried lazer but it runs worse than stable!
 
-While lazer runs great (usually better) than stable in most systems, but there are always edge cases! We're still got plenty of work to do on optimisations (and already know all the remaining optimisations which will provide the largest benefits).
+While lazer (usually) runs better than stable on most systems, there are always edge cases! We're still got plenty of work to do on optimisations (and already know all the remaining optimisations which will provide the largest benefits).
 
 Make sure to check back regularly.
 
@@ -127,7 +127,7 @@ We will be adding more skin support after we're happy with the existing gameplay
 
 ### Will there be touch controls to allow playing fast streams etc. on mobile?
 
-Yes, these are in development. For now you can connect a hardware keyboard.
+Yes, these are in development. For now, you can connect a hardware keyboard.
 
 ### Will circles be larger on mobile?
 
