@@ -14,7 +14,9 @@ With the [osu!lazer](https://github.com/ppy/osu) project creeping closer and clo
 
 ### Why isn't lazer out yet?
 
-Technically, it is already out (and has been since February 2017!). You can find the latest release available for Windows, macOS, iOS and android [here](https://github.com/ppy/osu#releases). For now, it is released as a preview which will run alongside your existing osu! install.
+Technically, it is already out (and has been since February 2017!). You can find the latest release available for Windows, macOS, iOS and android [here](https://github.com/ppy/osu#releases). Linux users can self-compile (a binary will be available soon).
+
+For now, it is released as a preview which will run alongside your existing osu! install.
 
 Do note that as everything is stored in a new format, it will take up more disk space if you import your existing beatmap collection.
 
