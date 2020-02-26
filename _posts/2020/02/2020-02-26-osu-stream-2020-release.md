@@ -1,7 +1,7 @@
 ---
 title: osu!stream 2020 release
 date: 2020-02-26T08:00:00.000Z
-published: false
+published: true
 ---
 
 [osu!stream](https://apps.apple.com/us/app/osu-stream/id436952197) was a project devised by me in 2012 to experiment with the idea of an osu! game on mobile platforms. The focus was on trying new things, so not only did I want to experiment with mobile game development, but also add elements using multi-touch. In addition, unlike the desktop release I wanted to have a go at curating all game content, including both licensing music and putting together a team of awesome mappers to create the beatmaps.
