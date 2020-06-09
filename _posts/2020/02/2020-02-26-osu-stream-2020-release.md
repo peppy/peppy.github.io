@@ -58,10 +58,10 @@ While released under the all-permissive MIT license, please note that the osu! n
 
 A lot of cool things came from this project. Here's some things you may now know about it:
 
-- The codename for this project was "osum", as in "osumobile". You might still see this term used around int he source code.
+- The codename for this project was "osum", as in "osumobile". You might still see this term used around in the source code.
 - osu!stream was written almost completely from scratch, including rewrites of file parsing, hitobject display etc.
 - osu!stream was written with performance in mind. it could achieve a consistent 60fps on the iPhone 3G and original iPad, where most games were struggling to hit 30fps.
-- An android release was planned. Test builds were sent out to many users and while it ran perfectly on a few devices, the number of issues and number of different devices to support, coupled with the fact that android touch screens at that point in time has shocking response times meant I never released it.
+- An Android release was planned. Test builds were sent out to many users and while it ran perfectly on a few devices, the number of issues and number of different devices to support, coupled with the fact that Android touch screens at that point in time has shocking response times meant I never released it.
 - All mappers were compensated for their time (between $100-200 per beatmap).
 - All music for osu!stream was licensed ahead of time of the game's release. As I didn't have huge up-front money to spend, artist were offered a percentage of game sales (30-50%).
 - I approached record labels to try and obtain correct licensing for larger artists, but was met with confusion over how to handle video game licensing. This situation has definitely improved over the last 8 years, as seen with featured artists.
