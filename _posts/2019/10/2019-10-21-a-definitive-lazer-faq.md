@@ -170,7 +170,7 @@ Likewise, we also predict the system requirements will be _equal or lower_ than 
 
 ### I've tried lazer but it runs worse than stable!
 
-While lazer (usually) runs better than stable on most systems, there are always edge cases! We're still got plenty of work to do on optimisations (and already know all the remaining optimisations which will provide the largest benefits).
+While lazer (usually) runs better than stable on most systems, there are always edge cases! We've still got plenty of work to do on optimisations (and already know all the remaining optimisations which will provide the largest benefits).
 
 Make sure to check back regularly.
 
