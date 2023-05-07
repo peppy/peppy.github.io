@@ -22,6 +22,30 @@ So the cogs started turning to plan cycling trip which ended up spanning just sh
 
 ---
 
+# The company
+
+I should probably start by introducing [Dunnymeister](https://twitter.com/Dunnymeister) (shortened Dunny), my good friend (and later on coworker for some time before osu! took off). He's a taiko connoisseur, great chef and even [brews](https://twitter.com/Dunnymeister/status/1535441445921751040) his [own beer](https://twitter.com/Dunnymeister/status/1572160175502667776).
+
+# The bikes
+
+In recent times, I've been using an ebike to get around. But I wasn't about to take an ebike on such a trip – not only would charging be a hassle (if it made it through a day in the first place), but it would just be rude to be riding an ebike alongside Dunny on a non-powered bicycle. And I wanted this to be a challenge.
+
+Dunny originally planned to bring his bike across from Australia with him, but the logistics of this were (and registration requirements in Japan) made him look in the direction of purchasing a bike here instead.
+
+It ended up that we both started looking into Trek bicycles and settled on some mid-range models. Aluminium body with hydraulic brake and drop handles were the criteria we had in mind.
+
+I went with a "gravel" model for thicker tyres. Mostly just from being used to riding on tyres that look like they aren't going to completely lose traction at the sight of some non-road terrain. Dunny went for the road model, which left us with an 8mm difference (32mm vs 40mm). Probably made life slightly harder for me due to lower efficiency, but it didn't end up being the largest problem.
+
+For reference, the models were Trek Checkpoint ALR5 and Trek Domane AL4. They served us well (and will continue to do so into the distant future, no doubt).
+
+# The assembly
+
+My friend had already chosen various cycling courses he wanted to challenge. But these were spread across half the country, and cycling *between* each of the courses would take way too much time. And, well, this was supposed to be a casual sightseeing trip, not a gruelling endurance ride.
+
+So the decision was there from the outset to use trains to get between some of the more distant areas we wanted to. The caveat being that bicycles are not allows on Japanese trains (with [one recent exception!](https://www.jreast.co.jp/multi/en/joyful/bbbase.html)), which means we have to get used to what is known as Rinko (輪行) – the art of disassembling your bike and putting it in a bag with no parts showing.
+
+# The routes
+
 TODO: main section about trip
 
 ---
