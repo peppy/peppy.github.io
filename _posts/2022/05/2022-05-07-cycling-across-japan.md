@@ -40,14 +40,21 @@ For reference, the models were Trek Checkpoint ALR5 and Trek Domane AL4. They se
 
 # The assembly
 
-My friend had already chosen various cycling courses he wanted to challenge. But these were spread across half the country, and cycling *between* each of the courses would take way too much time. And, well, this was supposed to be a casual sightseeing trip, not a gruelling endurance ride.
+My friend had already chosen various cycling routes he wanted to challenge. But these were spread across half the country, and cycling *between* each of the courses would take way too much time. And, well, this was supposed to be a casual sightseeing trip, not a gruelling endurance ride.
 
 So the decision was there from the outset to use trains to get between some of the more distant areas we wanted to. The caveat being that bicycles are not allows on Japanese trains (with [one recent exception!](https://www.jreast.co.jp/multi/en/joyful/bbbase.html)), which means we have to get used to what is known as Rinko (輪行) – the art of disassembling your bike and putting it in a bag with no parts showing.
 
 # The routes
 
-TODO: main section about trip
+## Shimanami Kaido (しまなみ海道)
 
+## Yamanami Highway (やまなみハイウェイ)
+
+## Biwaichi (琵琶湖一周)
+
+## To Himeji (大阪→姫路)
+
+This was a bit of a bonus round. The original plan was to catch a train but after the previous efforts, we were much more confident at this stage we could make a final 110km push and avoid the hassle of bicycle disassembly.
 ---
 
 Society, technology and everything around us is changing faster than ever. Most of the social discourse and news that is propagated is negative, uncomfortable and sometimes just outright scary. You may call it coping, but I make the personal choice not to follow world events and stay as uninformed as possible. It keeps me sane.
