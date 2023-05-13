@@ -48,6 +48,26 @@ So the decision was there from the outset to use trains to get between some of t
 
 ## Shimanami Kaido (しまなみ海道)
 
+Potentially the most famous cycling route in Japan, spanning the islands of Shikoku (四国). This was the start of our journey, although we spent the first day getting roughly to the starting point by train, opting to ride the final leg from the shinkansen station rather than catching a second local train. After our first train ride we were already tired of carrying our bikes on our shoulders and jumped at the opportunity to skip one train.
+
+We also had a bit of a rough start after discovering our train booking didn't have the oversize baggage area reserved. This surprised me as I was very careful to select the option when booking in the app. It was only later in the trip where I discovered an iOS level UX issue which can cause a change in setting to not register if you perform it too fast:
+
+[ios-bug.mov](ios-bug.mov)
+
+The train crew handled it so courteously and without any signs of distress, allowing us to put the bikes in between cars. I continue to have unwavering faith in JR as a company. But we did really want to get off the trains and onto the bikes, so jumped off at Fukuyama (福山) station with the starting point of Onomichi (尾道) in our sights.
+
+![shimanami-1.jpg](shimanami-1.jpg)
+
+This was the first time we discovered just how much there is to see, even when not planning around destinations. Even as we were racing an incoming storm, we couldn't help but stop to take in the sakura in full-blossom; an amazing temple; a small corner shop selling the local range of citrus fruits and as we approached our destination, taking in the scenery of the nearby river.
+
+PHOTOS
+
+![shimanami-2.jpg](shimanami-2.jpg)
+
+![shimanami-3.jpg](shimanami-3.jpg)
+
+![shimanami-4.jpg](shimanami-4.jpg)
+
 ## Yamanami Highway (やまなみハイウェイ)
 
 ## Biwaichi (琵琶湖一周)
@@ -55,6 +75,7 @@ So the decision was there from the outset to use trains to get between some of t
 ## To Himeji (大阪→姫路)
 
 This was a bit of a bonus round. The original plan was to catch a train but after the previous efforts, we were much more confident at this stage we could make a final 110km push and avoid the hassle of bicycle disassembly.
+
 ---
 
 Society, technology and everything around us is changing faster than ever. Most of the social discourse and news that is propagated is negative, uncomfortable and sometimes just outright scary. You may call it coping, but I make the personal choice not to follow world events and stay as uninformed as possible. It keeps me sane.
