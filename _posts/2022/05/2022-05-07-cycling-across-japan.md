@@ -60,9 +60,23 @@ The train crew handled it so courteously and without any signs of distress, allo
 
 This was the first time we discovered just how much there is to see, even when not planning around destinations. Even as we were racing an incoming storm, we couldn't help but stop to take in the sakura in full-blossom; an amazing temple; a small corner shop selling the local range of citrus fruits and as we approached our destination, taking in the scenery of the nearby river.
 
-PHOTOS
+PHOTOS (temple, sakura, shopping)
+
+Onomichi was a very cyclist friendly place to be, with the hotel we chose having dedicated road bike parking and facilities. This of course makes sense, as it is the starting (or ending) point of the route.
 
 ![shimanami-2.jpg](shimanami-2.jpg)
+
+And so we set off on the shimanami route. The first day started with getting our bearings - figuring out how to get *on* to the route (over a bridge we weren't sure we were allowed to ride) and subsequently how to *remain* on the route. The general idea is "follow the blue line on the road", but we soon learned that this line can arbitrarily stop in places you wish it didn't.
+
+BLUE LINE PHOTO
+
+As a note, the normal way of getting on the route from onomichi is to take a short ferry trip, which I'd probably recommend as the more scenic and straightforward route.
+
+FERRY PHOTO
+
+Our first day was a long one, crossing three of the route's bridges and aiming to get to basically the only accommodation we could find with vacancies on the day. I may have forgotten to mention that it was our smart idea to wing accommodation for this part of the journey (surely there would be plenty right?!). But we found a very nice cafe/hostel which served some great beer, pizza, fish and chips and more. We consumed it all.
+
+DINNER PHOTOS
 
 ![shimanami-3.jpg](shimanami-3.jpg)
 
