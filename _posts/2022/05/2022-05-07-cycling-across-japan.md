@@ -80,7 +80,19 @@ DINNER PHOTOS
 
 ![shimanami-3.jpg](shimanami-3.jpg)
 
+Our next morning started with the goal of finding somewhere that was open for breakfast. We found nowhere, so settled on a conbini (convenience store) breakfast. On the way out of the town, we did a final ride around to check out the area and came across a small yet homely winery. Thinking they might also have some kind of beer or snacks, we headed in but a single staff member informed us that they didn't really have much other than some bottles of wine for sale.
+
+But in addition she told us that there was a special wine and beer event on only today, and only 6km away. Even better, it was on our route out of the area. How could we resist such an amazing temptation?!
+
+BBQ PHOTOS
+
+As it turns out the event was being run at a local cycling organisation's camping grounds. We greeted the winery staff from the same winery that made us aware of the event, and then went on to definitely not drink every wine and beer on offering (a total of three different stalls) because we are responsible cyclists and that would take us over the legal blood-alcohol limit of 0.00% in Japan. We did consume some very awesome jerk chicken.
+
 ![shimanami-4.jpg](shimanami-4.jpg)
+
+We then set off – in very high spirits – for our next destination of Imabari. We managed to find a hotel which has rooms with built-in bike stands on the walls, very cool! Unfortunately all these rooms were taken, but as usual Japanese customer service (aka おもてなし) pulled through and the front desk setup some bicycl stands in the lobby especially for us. Well, for our bikes.
+
+Imabari was one of the cycling "station"s on this route, and we made use of their pumping and washing facilities to give our bikes a bit of a clean-up after riding through semi-wet conditions the last couple of days.
 
 ## Yamanami Highway (やまなみハイウェイ)
 
