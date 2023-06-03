@@ -110,6 +110,16 @@ Ride to ferry
 
 ## Yamanami Highway (やまなみハイウェイ)
 
+![yamanami-1.jpg](yamanami-1.jpg)
+
+![yamanami-2.jpg](yamanami-2.jpg)
+
+![yamanami-3.jpg](yamanami-3.jpg)
+
+![yamanami-4.jpg](yamanami-4.jpg)
+
+![yamanami-5.jpg](yamanami-5.jpg)
+
 ## Biwaichi (琵琶湖一周)
 
 ## To Himeji (大阪→姫路)
