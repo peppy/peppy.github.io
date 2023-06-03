@@ -52,7 +52,7 @@ Potentially the most famous cycling route in Japan, spanning the islands of Shik
 
 We also had a bit of a rough start after discovering our train booking didn't have the oversize baggage area reserved. This surprised me as I was very careful to select the option when booking in the app. It was only later in the trip where I discovered an iOS level UX issue which can cause a change in setting to not register if you perform it too fast:
 
-[ios-bug.mov](ios-bug.mov)
+<video width="100%" controls src="ios-bug.mov"></video>
 
 The train crew handled it so courteously and without any signs of distress, allowing us to put the bikes in between cars. I continue to have unwavering faith in JR as a company. But we did really want to get off the trains and onto the bikes, so jumped off at Fukuyama (福山) station with the starting point of Onomichi (尾道) in our sights.
 
@@ -84,15 +84,29 @@ Our next morning started with the goal of finding somewhere that was open for br
 
 But in addition she told us that there was a special wine and beer event on only today, and only 6km away. Even better, it was on our route out of the area. How could we resist such an amazing temptation?!
 
-BBQ PHOTOS
+LUNCH BBQ PHOTOS
 
 As it turns out the event was being run at a local cycling organisation's camping grounds. We greeted the winery staff from the same winery that made us aware of the event, and then went on to definitely not drink every wine and beer on offering (a total of three different stalls) because we are responsible cyclists and that would take us over the legal blood-alcohol limit of 0.00% in Japan. We did consume some very awesome jerk chicken.
 
 ![shimanami-4.jpg](shimanami-4.jpg)
 
-We then set off – in very high spirits – for our next destination of Imabari. We managed to find a hotel which has rooms with built-in bike stands on the walls, very cool! Unfortunately all these rooms were taken, but as usual Japanese customer service (aka おもてなし) pulled through and the front desk setup some bicycl stands in the lobby especially for us. Well, for our bikes.
+We then set off – in very high spirits – for our next destination of Imabari. We managed to find a hotel which has rooms with built-in bike stands on the walls, very cool! Unfortunately all these rooms were taken, but as usual Japanese customer service (aka おもてなし) pulled through and the front desk setup some bicycle stands in the lobby especially for us. Well, for our bikes.
 
 Imabari was one of the cycling "station"s on this route, and we made use of their pumping and washing facilities to give our bikes a bit of a clean-up after riding through semi-wet conditions the last couple of days.
+
+CLEANING BIKE PHOTO
+
+![shimanami-5.jpg](shimanami-5.jpg)
+
+Dougo onsen
+
+![shimanami-6.jpg](shimanami-6.jpg)
+
+Airb&b + cold bbq
+
+![shimanami-7.jpg](shimanami-7.jpg)
+
+Ride to ferry
 
 ## Yamanami Highway (やまなみハイウェイ)
 
