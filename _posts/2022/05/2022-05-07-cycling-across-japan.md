@@ -122,7 +122,14 @@ Ride to ferry
 
 ## Biwaichi (琵琶湖一周)
 
+![biwaichi-1.jpg](biwaichi-1.jpg)
+![biwaichi-2.jpg](biwaichi-2.jpg)
+
+![hyougo-1.jpg](hyougo-1.jpg)
+
 ## To Himeji (大阪→姫路)
+
+![hyougo-2.jpg](hyougo-2.jpg)
 
 This was a bit of a bonus round. The original plan was to catch a train but after the previous efforts, we were much more confident at this stage we could make a final 110km push and avoid the hassle of bicycle disassembly.
 
