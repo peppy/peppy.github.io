@@ -125,7 +125,11 @@ Ride to ferry
 ![biwaichi-1.jpg](biwaichi-1.jpg)
 ![biwaichi-2.jpg](biwaichi-2.jpg)
 
+## To Osaka (京都→大阪)
+
 ![hyougo-1.jpg](hyougo-1.jpg)
+
+For USJ.
 
 ## To Himeji (大阪→姫路)
 
