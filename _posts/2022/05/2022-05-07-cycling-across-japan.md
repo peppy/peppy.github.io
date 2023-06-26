@@ -24,11 +24,11 @@ So the cogs started turning to plan cycling trip which ended up spanning just sh
 
 # The company
 
-I should probably start by introducing [Dunnymeister](https://twitter.com/Dunnymeister) (shortened Dunny), my good friend (and later on coworker for some time before osu! took off). He's a taiko connoisseur, great chef and even [brews](https://twitter.com/Dunnymeister/status/1535441445921751040) his [own beer](https://twitter.com/Dunnymeister/status/1572160175502667776).
+I should probably start by introducing [Dunnymeister](https://twitter.com/Dunnymeister) (shortened Dunny), my good friend (and later on coworker for some time before osu! took off). He's a Taiko no Tatsujin connoisseur, great chef and even [brews](https://twitter.com/Dunnymeister/status/1535441445921751040) his [own beer](https://twitter.com/Dunnymeister/status/1572160175502667776).
 
 # The bikes
 
-In recent times, I've been using an ebike to get around. But I wasn't about to take an ebike on such a trip – not only would charging be a hassle (if it made it through a day in the first place), but it would just be rude to be riding an ebike alongside Dunny on a non-powered bicycle. And I wanted this to be a challenge.
+In recent times, I've been using an ebike to get around. But I wasn't about to take an ebike on such a trip – not only would charging be a hassle (if it made it through a day in the first place), but it would just be rude to be riding an ebike alongside Dunny on a non-powered bicycle. And honestly it would just make the whole trip less of a challenge.
 
 Dunny originally planned to bring his bike across from Australia with him, but the logistics of this were (and registration requirements in Japan) made him look in the direction of purchasing a bike here instead.
 
@@ -76,7 +76,11 @@ FERRY PHOTO
 
 Our first day was a long one, crossing three of the route's bridges and aiming to get to basically the only accommodation we could find with vacancies on the day. I may have forgotten to mention that it was our smart idea to wing accommodation for this part of the journey (surely there would be plenty right?!). But we found a very nice cafe/hostel which served some great beer, pizza, fish and chips and more. We consumed it all.
 
+The hostel owner (and chef for the night) may have forgotten our orders more than once, but the amazing food, drinks and vibe more than made up for it!
+
 DINNER PHOTOS
+
+LINK TO ACCOMMODATION
 
 ![shimanami-3.jpg](shimanami-3.jpg)
 
@@ -98,7 +102,9 @@ CLEANING BIKE PHOTO
 
 ![shimanami-5.jpg](shimanami-5.jpg)
 
-Dougo onsen
+The day before when checking in at the hostel, the owner made small talk with us and it went something like "Ah, you're cycling the shimanami route! I guess you're heading to Dougo next?" to which we responded with a puzzled look and mentioned our next destimation of Imabari.
+
+Upon a bit of quick research, Dougo Onsen is a very historic onsen area which seems to be a must-stop. So of course, we planned a detour, lest we disrespect the Japanese cycling pilgrimage!
 
 ![shimanami-6.jpg](shimanami-6.jpg)
 
