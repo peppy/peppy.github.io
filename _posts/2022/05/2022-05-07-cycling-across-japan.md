@@ -106,13 +106,41 @@ The day before when checking in at the hostel, the owner made small talk with us
 
 Upon a bit of quick research, Dougo Onsen is a very historic onsen area which seems to be a must-stop. So of course, we planned a detour, lest we disrespect the Japanese cycling pilgrimage!
 
+Dougo onsen was everything we imagined it to be. A small town with ice cream, beer and many people looking to take a bath. The main onsen building had a waitlist of around 2 hours, but the staff informed us there was a second building that recently opened, with the same "quality" water (as in it comes from the same fabled source) but no wait time.
+
+We didn't really have two hours to spare as we wanted some time to make it the remaining distance to our next destination before night hit, so opted to locate the second, much more colourful but less ancient-looking onsen.
+
+And oh boy was it worth it. There's nothing quite like hitting a hot spring and taking a moment to relax and reflect on the journey before continuing on.
+
 ![shimanami-6.jpg](shimanami-6.jpg)
 
-Airb&b + cold bbq
+Our accommodation tonight was an Airbnb on the coastline, in the middle of nowhere. It was a huge looking house that most definitely was inherited or bought for the specific purpose of renting it out.
+
+They mentioned in the description that it was possible to use a disposable BBQ set in the garden area, so we made a stop along the way at a supermarket to buy enough vegetables and meat to replenish our energy.
+
+Oh, and beer.
+
+The ride along the coast during golden hour and leading into sunset was absolutely magnificent. Then the sun dropped and the chilly evening air hit, bringing us to our senses. This was definitely not outdoor barbecue weather.
+
+We arrived at the accommodation, the last 5 minutes of the ride being up an insanely steep hill to get there. We were worn out and this is the last thing we needed, but at least it warmed us up a bit.
+
+On arriving, the sight of this amazing traditional Japanese house with its own rock garden and sea views made the effort probably worth it.
+
+We didn't really bring much cold weather clothing as we were trying to travel light, so layered on as many layers as we could to make this evening work.
+
+The barbecue happened. It was pretty great but also pretty cold. Without beer it likely wouldn't have been anywhere near as bearable.
 
 ![shimanami-7.jpg](shimanami-7.jpg)
 
-Ride to ferry
+Final day of Shimanami, and we were on the clock, with a ferry booked and still 34 km to travel. We set out as early as we could and powered through.
+
+This final segment was quite memorable for the four odd tunnels that we had to traverse – up to 1 km each. You could tell when one was coming up because the elevation graph on our GPS went from being bumpy mountainous terrain to suddenly completely straight and flat.
+
+In the tunnels we could pick up some great speed, but we were also riding alongside cars and trucks in a confined space. And tunnel acoustics mean you get hit with the car noise ten-fold as it arrives from every direction, echoing off all the walls.
+
+We made the ferry with around 30 minutes to spare and prepared for boarding alongside some bikers. It was a pretty great experience seeing the ferry workers securing our bikes to dedicated road bike mounts, and then leaving them for the main cabin.
+
+We enjoyed a bento box for lunch, with more than one craft cider featuring citrus from the local area. Dunny was exhausted and went to our private room to catch some sleep. I went to the lounge area and caught up on what work I could manage in the short 2 hour trip to Beppu.
 
 ## Yamanami Highway (やまなみハイウェイ)
 
