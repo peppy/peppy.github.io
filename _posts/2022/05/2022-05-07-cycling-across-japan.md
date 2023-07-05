@@ -98,7 +98,9 @@ We then set off – in very high spirits – for our next destination of Imabari
 
 Imabari was one of the cycling "station"s on this route, and we made use of their pumping and washing facilities to give our bikes a bit of a clean-up after riding through semi-wet conditions the last couple of days.
 
-CLEANING BIKE PHOTO
+TODO: CLEANING BIKE PHOTO
+
+TODO: mention tyre pressure
 
 ![shimanami-5.jpg](shimanami-5.jpg)
 
@@ -142,11 +144,33 @@ We made the ferry with around 30 minutes to spare and prepared for boarding alon
 
 We enjoyed a bento box for lunch, with more than one craft cider featuring citrus from the local area. Dunny was exhausted and went to our private room to catch some sleep. I went to the lounge area and caught up on what work I could manage in the short 2 hour trip to Beppu.
 
+What we had waiting for us at beppu was (arguably) our most luxurious accommodation of the trip – an intentionally timed choice to give us our best chance at recovery before what was to come. Hint: mountains, many mountains.
+
 ## Yamanami Highway (やまなみハイウェイ)
 
 ![yamanami-1.jpg](yamanami-1.jpg)
 
+This was the pinnacle of pain in this trip. So far we were averaging 1-300 metres of elevation change a day, but the first part of this route saw us climbing 1,450 metres! Our destination was a tiny bed and breakfast hostel run by some of my not-blood-related Japanese family. This couple used to run a bikers house, but have since moved and now run this cute little accommodation alongside a curry restaurant.
+
+The hilly terrain just never stopped, and kept going up as if there was no end. We would turn the next corner and there would be a new mountain to climb right in front of our eyes. We passed a cable car the went up most the way, and honestly if they allowed bikes on we may have been tempted to take it!
+
+There was one section where we had to go downhill around 250 metres after climbing 900 up. I pulled over less than halfway through just to make sure we weren't going the wrong way and undoing all the work we did! Luckily, it was all part of the route.
+
+As the sun began to set and we were still quite far from our destination, I made a courtesey phone call letting them know we would be a bit later than expected and were still gruelling away on the road. From the chuckling over the line, I could tell that I must have conveyed the exhaustion level we were experienced quite well.
+
+This was one of the first opportunities to use the bluetooth speaker I brought along to jam to some tunes. It definitely helped keep us energised and motivated to keep on keeping on.
+
+TODO more detail on arrriving, school kids, etc.
+
+We ate not just one curries, but two! It was likely the most satisfying curry to eat.
+
 ![yamanami-2.jpg](yamanami-2.jpg)
+
+This wasn't the end of our uphill segment, though. Nowhere near as bad as the previous day, but still a challenge. We set out to visit the peak of an area known as kusasenri, which gives an amazing panoramic view of the grassy flats around volcanic mountain Aso.
+
+While we were recovering and taking in the sights, we ran into a pro biking team, who had done the whole route we took one-and-a-half-days to cover in one morning. It was amusing to see them on super-light bikes with no bags next to us, with four panniers probably weighting more than all of their bikes put together!
+
+Felt like we were doing something wrong.
 
 ![yamanami-3.jpg](yamanami-3.jpg)
 
