@@ -146,15 +146,9 @@ facilities. This of course makes sense, as it is the starting (or ending) point 
 We ended the day with some local ramen. A highlight was a Japanese salaryman walking past and exclaiming “Ooh, he got a
 mega sized beer!” (おお、メガジョッキだ！) at Dunny’s mega sized beer!
 
-![](/images/cycling-across-japan/4060005.jpg)
-![](/images/cycling-across-japan/onomichi-collage.jpg)
-![](/images/cycling-across-japan/4060058.jpg)
-![](/images/cycling-across-japan/4060055.jpg)
-![](/images/cycling-across-japan/shimanami-1.jpg)
+<video width="100%" controls src="/images/cycling-across-japan/20230406-route_trimmed.mp4"></video>
 
-<video width="100%" controls src="/images/cycling-across-japan/20230406-route.mp4"></video>
-
-🛌 [Onomichi Kokusai Hotel](https://www.booking.com/hotel/jp/onomichi-kokusai.html?aid=356118)
+🛌 [Onomichi Kokusai Hotel](https://www.booking.com/hotel/jp/onomichi-kokusai.html?aid=356118)<br/>
 🍝 [Onomichi Ramen Aji Men](https://maps.apple.com/?address=6-19,%20Higashigoshocho,%20Onomichi,%20Hiroshima,%20Japan%20722-0036&auid=4287177755361023741&ll=34.404570,133.194285&lsp=9902&q=Onomichi%20Raumen%20Aji%20Men&t=r)
 
 ---
@@ -195,9 +189,11 @@ may have forgotten our orders more than once, but the amazing food, drinks and v
 ![](/images/cycling-across-japan/4070067.jpg)
 ![](/images/cycling-across-japan/4070081.jpg)
 ![](/images/cycling-across-japan/4070070.jpg)
-![](/images/cycling-across-japan/shimanami-2.jpg)
 
-<video width="100%" controls src="/images/cycling-across-japan/20230407-route.mp4"></video>
+<video width="100%" controls src="/images/cycling-across-japan/20230407-route_trimmed.mp4"></video>
+
+![hotel](https://TODO)
+![food](https://TODO)
 
 ---
 
@@ -215,9 +211,7 @@ blood-alcohol limit of 0.00% in Japan.
 
 We also consumed some very awesome jerk chicken. The guy making it had a great selection of hot sauces.
 
-![](/images/cycling-across-japan/4080100.jpg)
 ![](/images/cycling-across-japan/4080109.jpg)
-![](/images/cycling-across-japan/4080094.jpg)
 ![](/images/cycling-across-japan/4080095.jpg)
 
 We then set off – in very high spirits – for our next destination of Imabari, a city famous for locally produce towels.
@@ -236,14 +230,13 @@ in eggs to die for. Not the fanciest of places to eat, but the food was as amazi
 ![](/images/cycling-across-japan/4080130.jpg)
 ![](/images/cycling-across-japan/4080153.jpg)
 ![](/images/cycling-across-japan/4080162.jpg)
-![](/images/cycling-across-japan/4080196.jpg)![](/images/cycling-across-japan/4080190.jpg)
+![](/images/cycling-across-japan/4080196.jpg)
+![](/images/cycling-across-japan/4080190.jpg)
 
-TODO: Combine maps
+<video width="100%" controls src="/images/cycling-across-japan/20230408-route_trimmed.mp4"></video>
 
-![](/images/cycling-across-japan/shimanami-3.jpg)
-![](/images/cycling-across-japan/shimanami-4.jpg)
-
-<video width="100%" controls src="/images/cycling-across-japan/20230408-route.mp4"></video>
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -316,11 +309,11 @@ been anywhere near as bearable.
 ![](/images/cycling-across-japan/4090082.jpg)
 ![](/images/cycling-across-japan/4090065.jpg)
 ![](/images/cycling-across-japan/4090075.jpg)
-TODO: Combine maps
-![](/images/cycling-across-japan/shimanami-5.jpg)
-![](/images/cycling-across-japan/shimanami-6.jpg)
 
-<video width="100%" controls src="/images/cycling-across-japan/20230409-route.mp4"></video>
+<video width="100%" controls src="/images/cycling-across-japan/20230409-route_trimmed.mp4"></video>
+
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -368,9 +361,11 @@ the food – and more importantly drinks.
 ![](/images/cycling-across-japan/4100079.jpg)
 ![](/images/cycling-across-japan/amane-collage.jpg)
 ![](/images/cycling-across-japan/4100107.jpg)
-![](/images/cycling-across-japan/shimanami-7.jpg)
 
-<video width="100%" controls src="/images/cycling-across-japan/20230410-route.mp4"></video>
+<video width="100%" controls src="/images/cycling-across-japan/20230410-route_trimmed.mp4"></video>
+
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -446,9 +441,10 @@ TODO: INSERT VIDEO OF APPROACHING
 ![](/images/cycling-across-japan/4110173.jpg)
 ![](/images/cycling-across-japan/4110169.jpg)
 
-![](/images/cycling-across-japan/yamanami-1.jpg)
+<video width="100%" controls src="/images/cycling-across-japan/20230411-route_trimmed.mp4"></video>
 
-<video width="100%" controls src="/images/cycling-across-japan/20230411-route.mp4"></video>
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -484,9 +480,11 @@ the clean-up. And enjoyed many beers and buffet Yakiniku.
 
 ![](/images/cycling-across-japan/4120207.jpg)
 ![](/images/cycling-across-japan/4120214.jpg)
-![](/images/cycling-across-japan/yamanami-2.jpg)
 
-<video width="100%" controls src="/images/cycling-across-japan/20230412-route.mp4"></video>
+<video width="100%" controls src="/images/cycling-across-japan/20230412-route_trimmed.mp4"></video>
+
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -526,9 +524,11 @@ next morning.
 ![](/images/cycling-across-japan/4130045.jpg)
 ![](/images/cycling-across-japan/4130048.jpg)
 ![](/images/cycling-across-japan/4140001.jpg)
-![](/images/cycling-across-japan/yamanami-3.jpg)
 
-<video width="100%" controls src="/images/cycling-across-japan/20230413-route.mp4"></video>
+<video width="100%" controls src="/images/cycling-across-japan/20230413-route_trimmed.mp4"></video>
+
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -551,9 +551,11 @@ TODO parking bikes under station maybe
 
 ![](/images/cycling-across-japan/4140016.jpg)
 ![](/images/cycling-across-japan/4140019.jpg)
-![](/images/cycling-across-japan/yamanami-4.jpg)
 
-<video width="100%" controls src="/images/cycling-across-japan/20230414-route.mp4"></video>
+<video width="100%" controls src="/images/cycling-across-japan/20230414-route_trimmed.mp4"></video>
+
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -575,9 +577,10 @@ and then we split ways for a couple of days to take a break and catch up with ou
 
 TODO photos?
 
-![](/images/cycling-across-japan/yamanami-5.jpg)<!-- {"width":865} -->
+<video width="100%" controls src="/images/cycling-across-japan/20230415-route_trimmed.mp4"></video>
 
-<video width="100%" controls src="/images/cycling-across-japan/20230415-route.mp4"></video>
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -639,9 +642,10 @@ Literally the most isolated I’ve felt when travelling in Japan to date (there 
 We ended up walking 30 minutes to a nearby station and taking a train two stops and finding a Coco Ichibanya curry house
 to satisfy our spicy curry urges.
 
-![](/images/cycling-across-japan/biwaichi-1.jpg)
+<video width="100%" controls src="/images/cycling-across-japan/20230419-route_trimmed.mp4"></video>
 
-<video width="100%" controls src="/images/cycling-across-japan/20230419-route.mp4"></video>
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -668,9 +672,10 @@ that I was astounded it could be all the doing of the couple running this place.
 Our dinner was a very average conveyer belt sushi (回転寿司) experience at Sushiro. Wouldn’t do again, noisy and
 automated to the point of frustration. Am I the only one that enjoys a bit of human interaction when going out to eat?
 
-![](/images/cycling-across-japan/biwaichi-2.jpg)
+<video width="100%" controls src="/images/cycling-across-japan/20230420-route_trimmed.mp4"></video>
 
-<video width="100%" controls src="/images/cycling-across-japan/20230420-route.mp4"></video>
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -707,9 +712,11 @@ TODO icecream, takoyaki photos
 ![](/images/cycling-across-japan/IMG5662%20Edited.jpg)
 ![](/images/cycling-across-japan/4220253.jpg)
 ![](/images/cycling-across-japan/4220240.jpg)
-![](/images/cycling-across-japan/hyougo-1.jpg)
 
-<video width="100%" controls src="/images/cycling-across-japan/20230421-route.mp4"></video>
+<video width="100%" controls src="/images/cycling-across-japan/20230421-route_trimmed.mp4"></video>
+
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
@@ -754,9 +761,11 @@ surprise to see a welcoming party, waiting outside for our arrival! Very heart-w
 ![](/images/cycling-across-japan/4230266.jpg)
 ![](/images/cycling-across-japan/4230269.jpg)
 ![](/images/cycling-across-japan/IMG5749%20Edited.jpg)
-![](/images/cycling-across-japan/hyougo-2.jpg)
 
-<video width="100%" controls src="/images/cycling-across-japan/20230423-route.mp4"></video>
+<video width="100%" controls src="/images/cycling-across-japan/20230423-route_trimmed.mp4"></video>
+
+🛌 [hotel](https://TODO)<br/>
+🍝 [food](https://TODO)
 
 ---
 
