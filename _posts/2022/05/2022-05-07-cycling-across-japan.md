@@ -38,9 +38,13 @@ It ended up that we both started looking into Trek bicycles and eventually settl
 
 I went with a gravel model for thicker tyres and a more relaxed riding position. While I do plan to mostly stick to the tarmac, I am more used to riding on tyres that look like they aren't going to completely lose traction at the sight of some non-road terrain.
 
+![](/images/cycling-across-japan/4080136.jpg)
+
 Dunny went for the road model, which left us with an 8mm difference in tyres (32mm vs 40mm). Probably making life slightly harder for me due to lower efficiency, but a bit of quick research says there should *only* be around a 10% difference.
 
 For reference, the models were Trek Checkpoint ALR5 and Trek Domane AL4. They served us well (and will continue to do so into the distant future, no doubt).
+
+![](/images/cycling-across-japan/4130024.jpg)
 
 # The assembly
 
@@ -191,7 +195,7 @@ The barbecue happened. We didn't really bring much cold weather clothing as we w
 ![](/images/cycling-across-japan/4090065.jpg)
 ![](/images/cycling-across-japan/4090075.jpg)
 
-🛌 [hotel](https://TODO)<br/>
+🛌 [Entire home in Iyo](https://www.airbnb.com.au/rooms/44577500)<br/>
 🍝 BBQです
 
 ---
@@ -263,8 +267,8 @@ Amazing hospitality and some great conversation. Luckily, the Japanese couple ru
 ![](/images/cycling-across-japan/4110173.jpg)
 ![](/images/cycling-across-japan/4110169.jpg)
 
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
+🛌 [はんだ高原 ゲストハウス](https://atcommunity.wixsite.com/tanetone)<br/>
+🍝 [Cafe  tanetone](https://atcommunity.wixsite.com/tanetone)
 
 ---
 
@@ -287,8 +291,8 @@ When we arrived at the next accommodation, we asked where we could park our bike
 
 <video width="100%" controls poster="/images/cycling-across-japan/20230412-summary.jpg" src="/images/cycling-across-japan/20230412-route_trimmed.mp4"></video>
 
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
+🛌 [湯巡追荘](https://www.yumeoisou.com)<br/>
+🍝 [湯巡追荘](https://www.yumeoisou.com)
 
 ---
 
@@ -310,23 +314,21 @@ In a continuing pattern, even though the accommodation said they had no bike par
 
 <video width="100%" controls poster="/images/cycling-across-japan/20230413-summary.jpg" src="/images/cycling-across-japan/20230413-route_trimmed.mp4"></video>
 
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
+🛌 [FAV HOTEL KUMAMOTO](https://fav-hotels.com/hotels/kumamoto/)<br/>
+🍝 [龍の家](https://www.tatsunoya.net/washington/)
 
 ---
-
-TODO
 
 This stretch was a race against an incoming storm (which spoiler alert: we lost) and also trying to find a route which didn't take us directly through another mountain range. By this point we were a bit tired and hurting from all the previous days, so even though it was only 40km, it was quite a high effort ride through gloomy weather.
 
 One thing which helped was finding a karaage (fried chicken) shop early in the ride for a very nutritional breakfast, and seeking shelter along the way in some tunnels.
 
-TODO parking bikes under station maybe
+Not too much to say here. Our destination of Kurume was chosen specifically to eat Mohikan Ramen, at Dunny's recommendation. Too much ramen lately? Nah!
 
 <video width="100%" controls poster="/images/cycling-across-japan/20230414-summary.jpg" src="/images/cycling-across-japan/20230414-route_trimmed.mp4"></video>
 
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
+🛌 [The Celecton Kurume](https://celecton.com/kurume/)<br/>
+🍝 [モヒカンらーめん 味壱家 本店](https://mohikan-ramen.co.jp/)
 
 ---
 
@@ -342,9 +344,6 @@ And then we split ways for a couple of days to take a break and catch up with ou
 
 <video width="100%" controls poster="/images/cycling-across-japan/20230415-summary.jpg" src="/images/cycling-across-japan/20230415-route_trimmed.mp4"></video>
 
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
-
 ## Biwaichi (琵琶湖一周)
 
 After a few days parting our ways and catching up with friends and family in Hakata, we reconvened at Hakata station and bagged our bikes, back on a Shinkanen destined for Hikone (a castle town near Biwa lake).
@@ -357,17 +356,24 @@ After a short ride from our shinkansen station through light rain, we spent a ni
 
 The highlight of this ryokan was another guest who we met at the bar area on arriving. He was talking loudly and we were very bemused by his conversation. He was a self-proclaimed regular, and was with a woman who seemed to be a.. relatively new acquaintance. Talking up his connections with the owners, pouring expensive wine from the bottle (it was a very casual BYO bar area).
 
-We went to the conbini and bought some local chuuhai and came back to join them. The guy was actually very friendly, and poured us some of their wine. We offered them some chuuhai but they were good.
+We went to the conbini and bought some local chuuhai and came back to join them. The guy was actually very friendly, and even poured us some of their wine. We offered them some chuuhai but they were good.
+
+![](/images/cycling-across-japan/4180020.jpg)
 
 We ate teppanyaki and were lucky enough to be the only people in the restaurant, having the full attention of the chef. He was a very cool guy and very skilled chef. he asked if we wanted to upgrade our rice to garlic rice and there was no way we were saying no!
 
 Still not content with the consumption of alcohol, we decided to make a trek to a conbini. We were already in yukata and wearing wooden sandals. It turned out to be about a 1 km walk. Also, heavy rain started halfway.
 
+<video width="100%" controls src="/images/cycling-across-japan/IMG_5619.mov"></video>
+
 I don't know if it was the sheer absurdity of the situation, the exhaustion from days of riding or the booze, but we were both hysterically laughing the whole way back. We arrived completely drenched, trying to avoid eye contact with the entrance staff while we got back to our rooms and hung absolutely everything up to dry.
 
-INSERT TEPPAN PHOTOS
+![](/images/cycling-across-japan/teppan1.jpg)
+![](/images/cycling-across-japan/teppan2.jpg)
+![](/images/cycling-across-japan/teppan3.jpg)
 
-- [ ] Video with rain at biwako
+🛌 [ホテル 彦根キャッスルリゾート&スパ](https://www.hch.jp)<br/>
+🍝 [ホテル 彦根キャッスルリゾート&スパ](https://www.hch.jp)
 
 ---
 
@@ -385,8 +391,8 @@ We ended up walking 30 minutes to a nearby station and taking a train two stops 
 
 <video width="100%" controls poster="/images/cycling-across-japan/20230419-summary.jpg" src="/images/cycling-across-japan/20230419-route_trimmed.mp4"></video>
 
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
+🛌 [恵美寿荘](https://ebisusou.com)<br/>
+🍝 [CoCo壱番屋](https://www.ichibanya.co.jp/english/)
 
 ---
 
@@ -402,8 +408,8 @@ Our dinner was a very average conveyor belt sushi (回転寿司) experience at S
 
 <video width="100%" controls poster="/images/cycling-across-japan/20230420-summary.jpg" src="/images/cycling-across-japan/20230420-route_trimmed.mp4"></video>
 
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
+🛌 [苔生宿/Koke-Musu:inn](https://苔生宿.com)<br/>
+🍝 [スシロー](https://www.akindo-sushiro.co.jp/en/)
 
 ## To Osaka (京都→大阪)
 
@@ -411,9 +417,9 @@ You may noticed we didn't actually do a full rotation of the lake. That's becaus
 
 One of the auxiliary goals of this trip was to visit Universal Studios Japan for the Super Nintendo World experience. Our original plan was to pack our bikes and use trains for the remaining portion of the trip, but coming this far, we agreed that it was very much preferable to just ride the distance.
 
-This turned out to be a fairly nice ride, following a river (TODO name?) most of the way between these two cities. Most rivers in Japan have shared pedestrian/cycling paths which meant that finding out way around was quite simple once arriving at the river.
+This turned out to be a fairly nice ride, following a river most of the way between these two cities. Most rivers in Japan have shared pedestrian/cycling paths which meant that finding our way around was quite simple once arriving at the river.
 
-The only thing blocking progress on this day (quite literally) was blockades every few hundred metres on these paths, intended to stop motorcycles from using them. Usually, you'd be able to cycle a bike straight through (with a bit of precision), but due to the breadth of our pannier bags this meant lifting our bikes each and every time. I think we counted about 20-30 of these.
+The only thing blocking progress on this day (quite literally) was blockades every few hundred metres on these paths, intended to stop motorcycles and bipeds from using them. Usually, you'd be able to cycle a bike straight through (with a bit of precision), but due to the breadth of our pannier bags this meant lifting our bikes each and every time. I think we counted about 20-30 of these.
 
 Arriving in Osaka was quite unremarkable. But it was the first time where a hotel was not willing to work with us for ￼bike parking. I had to search around the area for something that would work for us, which happened to be a department store about 10 minutes walk away. Not too bad.
 
@@ -421,13 +427,17 @@ Arriving in Osaka was quite unremarkable. But it was the first time where a hote
 
 We spent two days and nights in Osaka, checking out the touristy things like Doutonbori (道頓堀, a smoke filled night life district – no thanks!) and eating some amazing street vendor Takoyaki and ice-cream!
 
+![](/images/cycling-across-japan/osaka-ice.jpg)
+
+
 We found a craft beer bar with really welcoming staff and spent both nights drinking all they had to offer, both local and international selections.￼
 
 ![](/images/cycling-across-japan/4220253.jpg)
 ![](/images/cycling-across-japan/4220240.jpg)
+![](/images/cycling-across-japan/4220198.jpg)
 
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
+🛌 [VIA INN SHINSAIBASHI](https://www.viainn.com/en/shinsaibashi/)<br/>
+🍝 [CAFE & LOCAL CRAFT BEER ARCA-ARCHA](https://arca-archa.jp)
 
 ---
 
@@ -441,7 +451,9 @@ We ended up, glitching out the star system and getting into the final Boss battl
 
 The only real drag was the amount of lining up to get anywhere.
 
-TODO USJ photos
+![](/images/cycling-across-japan/4220025.jpg)
+
+![](/images/cycling-across-japan/usj.jpg)
 
 ## To Himeji (大阪→姫路)
 
@@ -458,9 +470,6 @@ Pushing through on our longest ride yet, we made it to Himeji just after dark, q
 ![](/images/cycling-across-japan/IMG5749%20Edited.jpg)
 
 <video width="100%" controls poster="/images/cycling-across-japan/20230423-summary.jpg" src="/images/cycling-across-japan/20230423-route_trimmed.mp4"></video>
-
-🛌 [hotel](https://TODO)<br/>
-🍝 [food](https://TODO)
 
 ## And that's a wrap!
 
@@ -492,4 +501,4 @@ In hindsight, trying to address almost every problem users had brought up in the
 
 If you want to know more about the development process, we've basically shifted to a [video changelog](https://www.youtube.com/playlist?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-) style, with around two update videos a month. It's really fun and probably easier to digest than text anyway!
 
-Until next time..
+Until next time!
