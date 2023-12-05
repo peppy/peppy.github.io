@@ -477,7 +477,7 @@ Pushing through on our longest ride yet, we made it to Himeji just after dark, q
 
 All in all, we ended up covering a good portion of western and southern Japan. Would have loved to fill in the gaps, but we were already pushing both our fitness limits and time constraints! I actually needed a couple of months to recover from knee pain that was building up (apparently quite a common thing amongst cyclists when you go beyond your limits).
 
-![](/images/cycling-across-japan/2023-07-18%2001.34.01@2x.png)
+![](/images/cycling-across-japan/2023-07-18%2001.34.01@2x.jpg)
 
 Oh, and this wasn't actually the end of our cycling team. When we got back to Tokyo, we still felt like a final ride before parting ways, and did a 105 km trip up (and back down) Tama river (多摩川) to feast on some burgers. This set a record for a single day on this trip, and was a really nice way to end things!
 
