@@ -318,7 +318,9 @@ In a continuing pattern, even though the accommodation said they had no bike par
 
 This stretch was a race against an incoming storm (which spoiler alert: we lost) and also trying to find a route which didn't take us directly through another mountain range. By this point we were a bit tired and hurting from all the previous days, so even though it was only 40km, it was quite a high effort ride through gloomy weather.
 
-One thing which helped was finding a karaage (fried chicken) shop early in the ride for a very nutritional breakfast, and seeking shelter along the way in some tunnels.
+One thing which helped keep our morale high was finding a karaage (fried chicken) shop early in the ride for a very nutritional breakfast, and seeking shelter along the way in some tunnels.
+
+![](/images/cycling-across-japan/fukuoka.jpg)
 
 Not too much to say here. Our destination of Kurume was chosen specifically to eat Mohikan Ramen, at Dunny's recommendation. Too much ramen lately? Nah!
 
