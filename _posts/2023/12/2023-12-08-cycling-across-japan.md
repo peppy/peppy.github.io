@@ -1,6 +1,6 @@
 ---
 title: cycling across japan
-date: 2023-12-01T08:00:00.000Z
+date: 2000-12-08T08:00:00.000Z
 published: true
 ---
 
