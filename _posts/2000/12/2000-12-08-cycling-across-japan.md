@@ -10,7 +10,7 @@ Cycling is one of my life-long hobbies, and also my main means of staying in sha
 
 [ハチミツとクローバ (Honey and Clover)](https://en.wikipedia.org/wiki/Honey_and_Clover) is one of my favourite anime series to this day. While watching it (over two decades ago!)  I was quite emotionally attached to the characters and story progression. One specific arc in the story sees the main character – who has lost his direction in life – decide impulsively to cycle as far as he can without looking back.
 
-<video width="100%" autoplay loop src="/images/cycling-across-japan/hachikuro.mp4"></video>
+<video width="100%" autoplay loop muted playsinline src="/images/cycling-across-japan/hachikuro.mp4"></video>
 
 He ends up cycling a good portion of Japan (up to the north-most point of Hokkaido), and learning much about himself.
 
