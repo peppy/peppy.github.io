@@ -10,7 +10,7 @@ Cycling is one of my life-long hobbies, and also my main means of staying in sha
 
 [ハチミツとクローバ (Honey and Clover)](https://en.wikipedia.org/wiki/Honey_and_Clover) is one of my favourite anime series to this day. While watching it (over two decades ago!)  I was quite emotionally attached to the characters and story progression. One specific arc in the story sees the main character – who has lost his direction in life – decide impulsively to cycle as far as he can without looking back.
 
-<video width="100%" autoplay loop muted playsinline src="/images/cycling-across-japan/hachikuro.mp4"></video>
+<video width="100%" autoplay loop muted playsinline src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/hachikuro.mp4"></video>
 
 He ends up cycling a good portion of Japan (up to the north-most point of Hokkaido), and learning much about himself.
 
@@ -38,13 +38,13 @@ It ended up that we both started looking into Trek bicycles and eventually settl
 
 I went with a gravel model for thicker tyres and a more relaxed riding position. While I do plan to mostly stick to the tarmac, I am more used to riding on tyres that look like they aren't going to completely lose traction at the sight of some non-road terrain.
 
-![](/images/cycling-across-japan/4080136.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4080136.jpg)
 
 Dunny went for the road model, which left us with an 8mm difference in tyres (32mm vs 40mm). Probably making life slightly harder for me due to lower efficiency, but a bit of quick research says there should *only* be around a 10% difference.
 
 For reference, the models were Trek Checkpoint ALR5 and Trek Domane AL4. They served us well (and will continue to do so into the distant future, no doubt).
 
-![](/images/cycling-across-japan/4130024.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4130024.jpg)
 
 # The assembly
 
@@ -53,7 +53,7 @@ Dunny had already chosen various cycling routes he wanted to challenge. But thes
 The decision was made to use Japan's amazing train network to get between some of the more distant areas we wanted to cycle. The caveat being that bicycles are generally not allowed on Japanese trains (with [one recent exception!](https://www.jreast.co.jp/multi/en/joyful/bbbase.html)), which means we would have to get used to what is known as Rinko (輪行) – the process of disassembling your bike and putting it in a bag, making sure no
 bike parts are visibly protruding.
 
-![](/images/cycling-across-japan/rinkou.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/rinkou.jpg)
 
 # The gear
 
@@ -90,7 +90,7 @@ Possibly the most famous cycling route in Japan, spanning the islands of Shikoku
 
 It was a bit of a rough start after discovering our train booking didn't have the "oversize baggage" area correctly reserved. This surprised me as I was very careful to select the option when booking in the app. It was only later in the trip where I discovered an iOS level UX issue which can cause a change in dropdown settings to not register correctly if you confirm the action too fast:
 
-<video width="100%" controls preload="metadata" src="/images/cycling-across-japan/ios-bug.mov"></video>
+<video width="100%" controls preload="metadata" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/ios-bug.mov"></video>
 
 Regardless, the train crew handled the situation so courteously and without any signs of distress, allowing us to place our bikes in between train cars. I continue to have unwavering faith in JR as a company. But we did really want to get off the trains and onto the bikes!
 
@@ -98,13 +98,13 @@ We made the decision to cycle from the Shinkansen station rather than catching a
 
 This was the first time we discovered just how much there is to see, even when not using a great deal of thought in the route. Even as we were racing an incoming storm, we couldn't help but stop to take in the sakura (cherry blossom) in full-blossom; an amazing temple; a small corner shop selling the local range of citrus fruits and as we approached our destination, the scenery along the short of the nearby river.
 
-![](/images/cycling-across-japan/onomichi.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/onomichi.jpg)
 
 Onomichi was a very cyclist friendly place to be, with the hotel we chose having dedicated road bike parking and facilities. This of course makes sense, as it is the starting (or ending) point of the route.
 
 We ended the day with some local ramen. A highlight was a Japanese salaryman walking past and exclaiming "Ooh, he got a mega sized beer!" (おお、メガジョッキだ！) at Dunny's mega sized beer!
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230406-summary.jpg" src="/images/cycling-across-japan/20230406-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230406-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230406-route_trimmed.mp4"></video>
 
 🛌 [Onomichi Kokusai Hotel](https://www.booking.com/hotel/jp/onomichi-kokusai.html?aid=356118)<br/>
 🍝 [Onomichi Ramen Aji Men](https://maps.apple.com/?address=6-19,%20Higashigoshocho,%20Onomichi,%20Hiroshima,%20Japan%20722-0036&auid=4287177755361023741&ll=34.404570,133.194285&lsp=9902&q=Onomichi%20Raumen%20Aji%20Men&t=r)
@@ -117,7 +117,7 @@ The first day started with getting our bearings - figuring out how to get *on* t
 
 As a note, the normal way of getting on the route from Onomichi is to take a short ferry trip, which I'd probably recommend as the more scenic and straightforward route.
 
-![](/images/cycling-across-japan/4070003.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4070003.jpg)
 
 We were taking the route on a bit of an off-season, so we mostly had the roads to ourselves. There were quite a few roadside stops along the way, including locals selling their produce (and giving out free samples of course!).
 
@@ -125,12 +125,12 @@ Other cyclists were very friendly, and the bikes they were riding ranged from ae
 
 Our first day was quite a long one, as we stormed through the first three of the route's bridge crossings in order to reach one of the only accommodations we could find with vacancies on this day. I need to mention here that it was our smart idea to wing accommodation for this part of the journey (surely there would be plenty right?!).
 
-![](/images/cycling-across-japan/shimanami.jpg)
-![](/images/cycling-across-japan/shimanami-1.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/shimanami.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/shimanami-1.jpg)
 
 The beds we managed to secure were at a very cosy cafe-hostel combination which served some great beer, pizza, fish and chips and sour drinks mixed with the local citrus fruits. We consumed it all. The hostel owner (and chef for the night) may have forgotten our orders more than once, but the amazing food, drinks and vibe more than made up for it!
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230407-summary.jpg" src="/images/cycling-across-japan/20230407-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230407-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230407-route_trimmed.mp4"></video>
 
 🛌 [Coliving & Cafe SANDO](https://www.booking.com/hotel/jp/coliving-amp-cafe-sando.html)<br/>
 🍝 [Coliving & Cafe SANDO](https://www.booking.com/hotel/jp/coliving-amp-cafe-sando.html)
@@ -143,7 +143,7 @@ As it turns out the event was being run at a local cycling organisation's campin
 
 We also consumed some very awesome jerk chicken. The guy making it had a great selection of hot sauces.
 
-![](/images/cycling-across-japan/beer-event.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/beer-event.jpg)
 
 We then set off – in very high spirits – for our next destination of Imabari, a city famous for locally produce towels. The towels are actually world renowned for their high quality, to the point the city has an official certification process which companies can apply for in order to don the coveted Imabari branding.
 
@@ -151,7 +151,7 @@ After arriving, we managed to find a hotel that had rooms with built-in bike sta
 
 We then went on a walk to find a small family-run eatery (Shigematsu Hanten) that is said to server a rice-bowl covered in eggs to die for. Not the fanciest of places to eat, but the food was as amazing as expected!
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230408-summary.jpg" src="/images/cycling-across-japan/20230408-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230408-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230408-route_trimmed.mp4"></video>
 
 🛌 [JR CLEMENT INN IMABARI](https://www.jrclement.co.jp/inn/imabari/)<br/>
 🍝 [重松飯店](https://tabelog.com/ehime/A3802/A380201/38000101/)
@@ -160,7 +160,7 @@ We then went on a walk to find a small family-run eatery (Shigematsu Hanten) tha
 
 Imabari was one of the "cycling stations" on this route, so in the morning we made use of their pumping and washing facilities to give our bikes a bit of a clean-up after riding through semi-wet conditions the last couple of days.
 
-![](/images/cycling-across-japan/4090004.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4090004.jpg)
 
 This was the first time I was able to use a proper tyre pump and check my tyre pressure. I was a bit suspicious as I was struggling towards the end of the previous day.. but very surprised that it was around 22 psi!! For efficiency I really shouldn't have been running below 30. I pumped them back up to 35 psi and the difference was night and day!
 
@@ -178,7 +178,7 @@ We didn't really have two hours to spare as we wanted some time to make the rema
 
 And oh boy was it worth it. There's nothing quite like hitting a hot spring and taking a moment to relax and reflect on the journey thus-far before continuing on.
 
-![](/images/cycling-across-japan/dougu-onsen.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/dougu-onsen.jpg)
 
 Our accommodation tonight was an Airbnb on the coastline, in the middle of nowhere. It was a huge looking house that most definitely was inherited or bought for the specific purpose of renting it out.
 
@@ -186,17 +186,17 @@ They mentioned in the description that it was possible to use a disposable BBQ s
 
 Oh, and beer.
 
-![](/images/cycling-across-japan/4090044.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4090044.jpg)
 
 The ride along the coast during golden hour and leading into sunset was absolutely magnificent. Then the sun dropped and the chilly evening air hit, bringing us to our senses. This was definitely not outdoor barbecue weather.
 
 We arrived at the accommodation, with the last 5 minutes of the ride being up an insanely steep hill to get there. We were already worn out and this is the last thing we needed, but at least it warmed us up a bit! On arriving, the sight of this amazing traditional Japanese house with its own rock garden and sea views made the effort probably worth it.
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230409-summary.jpg" src="/images/cycling-across-japan/20230409-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230409-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230409-route_trimmed.mp4"></video>
 
 The barbecue happened. We didn't really bring much cold weather clothing as we were trying to travel light, so layered on as many layers as we could to make this evening work. It was pretty great but also pretty cold. Without beer and good company it likely wouldn't have been anywhere near as bearable.
 
-![](/images/cycling-across-japan/bbq.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/bbq.jpg)
 
 🛌 [Entire home in Iyo](https://www.airbnb.com.au/rooms/44577500)<br/>
 🍝 BBQです
@@ -211,11 +211,11 @@ In the tunnels we could pick up some great speed, but we were also riding alongs
 
 We made the ferry with around 45 minutes to spare and prepared for boarding alongside some bikers. It was a pretty great experience seeing the ferry workers securing our bikes to dedicated road bike mounts, and then leaving them for the main cabin.
 
-![](/images/cycling-across-japan/beppu-ferry.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/beppu-ferry.jpg)
 
 Once on board, we enjoyed a bento box for lunch, with more than one craft cider featuring citrus from the local area. Dunny was exhausted and went to our private room to catch some sleep. I went to the lounge area and caught up on what work I could manage in the short 2 hour trip to Beppu.
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230410-summary.jpg" src="/images/cycling-across-japan/20230410-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230410-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230410-route_trimmed.mp4"></video>
 
 What we had waiting for us at beppu was (arguably) our most luxurious accommodation of the trip – an intentionally timed choice to give us our best chance at recovery before what was to come. Hint: mountains, many mountains.
 
@@ -223,15 +223,15 @@ The food here was a sublime Japanese traditional multi-course feast (会席料�
 
 Oh and the reason for the rice coming last? It is called the "[shime](https://visitmiyazaki.com/explore_miyazaki/discover-shime-culture-in-miyazaki/)" (〆) and signals the end of the food – and more importantly drinks.
 
-![](/images/cycling-across-japan/gahama.jpg)
-![](/images/cycling-across-japan/gahama-2.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/gahama.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/gahama-2.jpg)
 
 🛌 [AMANE RESORT GAHAMA](https://gahamaterrace.com)<br/>
 🍝 [AMANE RESORT GAHAMA](https://gahamaterrace.com)
 
 ## Yamanami Highway (やまなみハイウェイ)
 
-![](/images/cycling-across-japan/4110155.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4110155.jpg)
 
 We knew ahead of time that this was to be the pinnacle of pain in this trip. So far we were averaging 100-300 metres of elevation change a day, but the first part of this route was to see us climbing 1,450 metres! Our destination was a tiny bed and breakfast hostel run by some of my (not-blood-related) Japanese family. This couple used to run a "rider's house" – small no-frills accommodation for bikers – but have since moved and now run this cute little accommodation alongside a curry restaurant. I had to visit it, and it was almost precisely on a route!
 
@@ -245,7 +245,7 @@ As usual, we exchanged some pleasant small talk with the staff in the store who 
 
 There was one section where we were speeding downhill around 250 metres after a 900 metre effort uphill. We exchanged some concerned looks and ended up pulling over just to make sure we weren't going the wrong way and undoing all the work we did! Luckily, it was all part of the route.
 
-![](/images/cycling-across-japan/beppu-climb.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/beppu-climb.jpg)
 
 As the sun began to set and we were still quite far from our destination, I made a courtesy phone call letting them know we would be a bit later than expected and were still gruelling away on the road. From the chuckling on the other end of the line, I could tell that I must have conveyed the exhaustion level we were experiencing quite well.
 
@@ -255,7 +255,7 @@ Within kilometres of our destination, we happened upon a small stable with goats
 
 Down the final slope, there was a group of school kids on their way home from club activities at the end of the road. They gave us the most welcoming wave and greeting! Another sign that you're *really* in the countryside.
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230411-summary.jpg" src="/images/cycling-across-japan/20230411-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230411-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230411-route_trimmed.mp4"></video>
 
 The guest house we stayed at would usually house up to 10 people at a time, but since COVID it was only available to a single group at once, rather than being shared accommodation. I don't think that policy is still in place, but we did have the whole place to ourselves, giving us plenty of space to relax and take in the complete silence, apart from the pitter-patter of rain (which we narrowly missed) and sounds of nature.
 
@@ -263,7 +263,7 @@ Before settling down and getting some well-needed rest, our stomachs needed fill
 
 Amazing hospitality and some great conversation. Luckily, the Japanese couple running this place did remember me. (I showed up unannounced after not seeing them for a good 8-10 years, so that was quite a happy and relieving moment).
 
-![](/images/cycling-across-japan/tanetone.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/tanetone.jpg)
 
 🛌 [はんだ高原 ゲストハウス](https://atcommunity.wixsite.com/tanetone)<br/>
 🍝 [Cafe  tanetone](https://atcommunity.wixsite.com/tanetone)
@@ -278,15 +278,15 @@ The very squiggly portion of road on the map was a rapid descent back down 300 m
 
 Along the way we made a few stops at various roadside attractions, including massive $20+ watermelons, cute cats and a mountain goat getting entangled in its leash. I tried my best to teach the goat how to free itself but goats are apparently not smart.
 
-![](/images/cycling-across-japan/aso.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/aso.jpg)
 
 Approaching our accommodation after another long day, our very direct route told us to ride straight through about 2 km of rice fields. This wouldn't have been too bad, except that due to the recently rain it got very *very* muddy. But after a day of hill climbing this was quite a welcome change so we embraced it until it got so deep we couldn't move forward!
 
-![](/images/cycling-across-japan/4120207.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4120207.jpg)
 
 When we arrived at the next accommodation, we asked where we could park our bikes and in a very welcome pattern, after the reception notices we are on road bikes they offered to let us take them to our rooms. Which would have been fine if we didn't just coat the tyres with fresh layer of mud! We parked outside at a public parking lot next door to save them the clean-up. And enjoyed many beers and buffet Yakiniku.
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230412-summary.jpg" src="/images/cycling-across-japan/20230412-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230412-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230412-route_trimmed.mp4"></video>
 
 🛌 [湯巡追荘](https://www.yumeoisou.com)<br/>
 🍝 [湯巡追荘](https://www.yumeoisou.com)
@@ -299,7 +299,7 @@ While we were recovering and taking in the sights, we spotted a pro biking team 
 
 Felt like we were doing something wrong.
 
-![](/images/cycling-across-japan/P4130016.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/P4130016.jpg)
 
 Next up was a new single-day distance record, and finally a mostly downhill segment. Our next goal was Kumamoto, to visit a castle and eat some local ramen.
 
@@ -309,7 +309,7 @@ We bid our farewells at the end of the descent as traffic got lighter and we cou
 
 In a continuing pattern, even though the accommodation said they had no bike parking, they accommodated to us and let us store the bikes safely indoors. We were as grateful as ever. They also made us some mean sandwiches for breakfast the next morning.
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230413-summary.jpg" src="/images/cycling-across-japan/20230413-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230413-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230413-route_trimmed.mp4"></video>
 
 🛌 [FAV HOTEL KUMAMOTO](https://fav-hotels.com/hotels/kumamoto/)<br/>
 🍝 [龍の家](https://www.tatsunoya.net/washington/)
@@ -320,11 +320,11 @@ This stretch was a race against an incoming storm (which spoiler alert: we lost)
 
 One thing which helped keep our morale high was finding a karaage (fried chicken) shop early in the ride for a very nutritional breakfast, and seeking shelter along the way in some tunnels.
 
-![](/images/cycling-across-japan/fukuoka.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/fukuoka.jpg)
 
 Not too much to say here. Our destination of Kurume was chosen specifically to eat Mohikan Ramen, at Dunny's recommendation. Too much ramen lately? Nah!
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230414-summary.jpg" src="/images/cycling-across-japan/20230414-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230414-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230414-route_trimmed.mp4"></video>
 
 🛌 [The Celecton Kurume](https://celecton.com/kurume/)<br/>
 🍝 [モヒカンらーめん 味壱家 本店](https://mohikan-ramen.co.jp/)
@@ -341,7 +341,7 @@ We were planning to use the opportunity we had during our break at Fukuoka to dr
 
 And then we split ways for a couple of days to take a break and catch up with our friends.
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230415-summary.jpg" src="/images/cycling-across-japan/20230415-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230415-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230415-route_trimmed.mp4"></video>
 
 ## Biwaichi (琵琶湖一周)
 
@@ -357,17 +357,17 @@ The highlight of this ryokan was another guest who we met at the bar area on arr
 
 We went to the conbini and bought some local chuuhai and came back to join them. The guy was actually very friendly, and even poured us some of their wine. We offered them some chuuhai but they were good.
 
-![](/images/cycling-across-japan/4180020.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4180020.jpg)
 
 We ate teppanyaki and were lucky enough to be the only people in the restaurant, having the full attention of the chef. He was a very cool guy and very skilled chef. he asked if we wanted to upgrade our rice to garlic rice and there was no way we were saying no!
 
 Still not content with the consumption of alcohol, we decided to make a trek to a conbini. We were already in yukata and wearing wooden sandals. It turned out to be about a 1 km walk. Also, heavy rain started halfway.
 
-<video width="100%" controls preload="metadata" src="/images/cycling-across-japan/IMG_5619.mov"></video>
+<video width="100%" controls preload="metadata" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/IMG_5619.mov"></video>
 
 I don't know if it was the sheer absurdity of the situation, the exhaustion from days of riding or the booze, but we were both hysterically laughing the whole way back. We arrived completely drenched, trying to avoid eye contact with the entrance staff while we got back to our rooms and hung absolutely everything up to dry.
 
-![](/images/cycling-across-japan/hikone-teppan.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/hikone-teppan.jpg)
 
 🛌 [ホテル 彦根キャッスルリゾート&スパ](https://www.hch.jp)<br/>
 🍝 [ホテル 彦根キャッスルリゾート&スパ](https://www.hch.jp)
@@ -382,13 +382,13 @@ After an initial hiccup where we rode 6 km before realising we *were going the w
 
 Nevertheless it had its great moments. We stopped at a rest house for lunch (and so I could participate in the bi-weekly osu! dev meeting). We also found a little house / shop that was selling craft coffees and ginger biscuits. We bought biscuits intending to take them back as souvenirs for friends but ended up eating a good portion as they were so good!
 
-![](/images/cycling-across-japan/biwa.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/biwa.jpg)
 
 We stayed at a very non-remarkable Japanese inn. What we didn't realise was that the town we chose to stay at had zero dinner options. It didn't help that it was a Wednesday which was the day of the week when most restaurants take a break. Literally the most isolated I've felt when travelling in Japan to date (there was only one conbini for the whole town!).
 
 We ended up walking 30 minutes to a nearby station and taking a train two stops and finding a Coco Ichibanya curry house to satisfy our spicy curry urges.
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230419-summary.jpg" src="/images/cycling-across-japan/20230419-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230419-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230419-route_trimmed.mp4"></video>
 
 🛌 [恵美寿荘](https://ebisusou.com)<br/>
 🍝 [CoCo壱番屋](https://www.ichibanya.co.jp/english/)
@@ -401,13 +401,13 @@ Turns out he is a local and rides around the lake almost every day, clocking up 
 
 He left us with some energy pouches that I don't think either of us have opened to this day, keeping them as memorabilia of the trip. I wish I thought quick enough to give him one of the koalas that was hitchhiking on my bike in return! We actually tried to find this guy on twitter or similar so we could stay in touch, but unfortunately haven't had much luck. I guess we'll need to head back to the lake at some point to find him again. Hopefully he'll still be wearing pink as to make identifying him easy.
 
-![](/images/cycling-across-japan/biwa-1.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/biwa-1.jpg)
 
 We stayed at a very interesting little guesthouse constructed to make the most of the limited space they had. Each room was crafted to use every last centimetre of available ground and wall space to the fullest. They also had a little cafe and bar on the bottom floor, with hand-crafted miniatures and many a collectibles across such a wide range of hobbies that I was astounded it could be all the doing of the couple running this place.
 
 Our dinner was a very average conveyor belt sushi (回転寿司) experience at Sushiro. Wouldn't do again, noisy and automated to the point of frustration. Am I the only one that enjoys a bit of human interaction when going out to eat?
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230420-summary.jpg" src="/images/cycling-across-japan/20230420-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230420-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230420-route_trimmed.mp4"></video>
 
 🛌 [苔生宿/Koke-Musu:inn](https://苔生宿.com)<br/>
 🍝 [スシロー](https://www.akindo-sushiro.co.jp/en/)
@@ -422,22 +422,22 @@ This turned out to be a fairly nice ride, following Yodogawa river most of the w
 
 The only thing blocking progress on this day (quite literally) was blockades every few hundred metres on these paths, intended to stop motorcycles and bipeds from using them. Usually, you'd be able to cycle a bike straight through (with a bit of precision), but due to the breadth of our pannier bags this meant lifting our bikes each and every time. I think we counted about 20-30 of these.
 
-![](/images/cycling-across-japan/yodogawa.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/yodogawa.jpg)
 
 Arriving in Osaka was quite unremarkable. But it was the first time where a hotel was not willing to work with us for ￼bike parking. I had to search around the area for something that would work for us, which happened to be a department store about 10 minutes walk away. Not too bad.
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230421-summary.jpg" src="/images/cycling-across-japan/20230421-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230421-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230421-route_trimmed.mp4"></video>
 
 We spent two days and nights in Osaka, checking out the touristy things like Doutonbori (道頓堀, a smoke filled night life district – no thanks!) and eating some amazing street vendor Takoyaki and ice-cream!
 
-![](/images/cycling-across-japan/osaka-ice.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/osaka-ice.jpg)
 
 
 We found a craft beer bar with really welcoming staff and spent both nights drinking all they had to offer, both local and international selections.￼
 
-![](/images/cycling-across-japan/4220253.jpg)
-![](/images/cycling-across-japan/4220240.jpg)
-![](/images/cycling-across-japan/osaka-street.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4220253.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4220240.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/osaka-street.jpg)
 
 
 🛌 [VIA INN SHINSAIBASHI](https://www.viainn.com/en/shinsaibashi/)<br/>
@@ -455,9 +455,9 @@ We ended up, glitching out the star system and getting into the final Boss battl
 
 The only real drag was the amount of lining up to get anywhere.
 
-![](/images/cycling-across-japan/4220025.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/4220025.jpg)
 
-![](/images/cycling-across-japan/usj.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/usj.jpg)
 
 ## To Himeji (大阪→姫路)
 
@@ -471,21 +471,21 @@ The last segment saw us following the Shinkansen tracks while taking on some ver
 
 Pushing through on our longest ride yet, we made it to Himeji just after dark, quite worn out. It was an unexpected surprise to see a welcoming party, waiting outside for our arrival! Very heart-warming!
 
-![](/images/cycling-across-japan/himeji.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/himeji.jpg)
 
-<video width="100%" controls preload="metadata" poster="/images/cycling-across-japan/20230423-summary.jpg" src="/images/cycling-across-japan/20230423-route_trimmed.mp4"></video>
+<video width="100%" controls preload="metadata" poster="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230423-summary.jpg" src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/20230423-route_trimmed.mp4"></video>
 
 ## And that's a wrap!
 
 All in all, we ended up covering a good portion of western and southern Japan. Would have loved to fill in the gaps, but we were already pushing both our fitness limits and time constraints! I actually needed a couple of months to recover from knee pain that was building up (apparently quite a common thing amongst cyclists when you go beyond your limits).
 
-![](/images/cycling-across-japan/2023-07-18%2001.34.01@2x.jpg)
+![](https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/2023-07-18%2001.34.01@2x.jpg)
 
 Oh, and this wasn't actually the end of our cycling team. When we got back to Tokyo, we still felt like a final ride before parting ways, and did a 105 km trip up (and back down) Tama river (多摩川) to feast on some burgers. This set a record for a single day on this trip, and was a really nice way to end things!
 
 As an aside, I was really happy to have as much footage and GPS data of this trip, and enjoyed the process of creating this article (along with figuring out the best way to visualise things). While I ended up using Relive – and app that does most of the heavy lifting – I tried out five other methods of visualisation, all which had their individual benefits and drawbacks. Here's just one example I was toying with, which feels really nice and correctly shows the break stops we made along the way, but ultimately didn't convey the scale that 3D visualisation can.
 
-<video width="100%" controls src="/images/cycling-across-japan/GPX-Animation.mp4"></video>
+<video width="100%" controls src="https://assets.ppy.sh/blog/cycling-across-japan/cycling-across-japan/GPX-Animation.mp4"></video>
 
 ---
 
