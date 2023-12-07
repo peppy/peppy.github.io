@@ -259,6 +259,8 @@ Down the final slope, there was a group of school kids on their way home from cl
 
 The guest house we stayed at would usually house up to 10 people at a time, but since COVID it was only available to a single group at once, rather than being shared accommodation. I don't think that policy is still in place, but we did have the whole place to ourselves, giving us plenty of space to relax and take in the complete silence, apart from the pitter-patter of rain (which we narrowly missed) and sounds of nature.
 
+<video width="100%" controls preload="metadata" src="/images/cycling-across-japan/tanetone.mp4"></video>
+
 Before settling down and getting some well-needed rest, our stomachs needed filling. Our curry was waiting. Call it a biased perception – coming off the tail of likely the most strenuous exercise I've done in my life – but this was *the best* tasting curry I've had to date. We ate not just one, but *two* full servings of curry each (classic Katsu curry and Butter Chicken curry)!
 
 Amazing hospitality and some great conversation. Luckily, the Japanese couple running this place did remember me. (I showed up unannounced after not seeing them for a good 8-10 years, so that was quite a happy and relieving moment).
