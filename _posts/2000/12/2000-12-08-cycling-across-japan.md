@@ -259,7 +259,7 @@ Down the final slope, there was a group of school kids on their way home from cl
 
 The guest house we stayed at would usually house up to 10 people at a time, but since COVID it was only available to a single group at once, rather than being shared accommodation. I don't think that policy is still in place, but we did have the whole place to ourselves, giving us plenty of space to relax and take in the complete silence, apart from the pitter-patter of rain (which we narrowly missed) and sounds of nature.
 
-<video width="100%" controls preload="metadata" src="/images/cycling-across-japan/tanetone.mp4"></video>
+<video width="100%" controls preload="metadata" src="https://assets.ppy.sh/blog/cycling-across-japan/tanetone.mp4"></video>
 
 Before settling down and getting some well-needed rest, our stomachs needed filling. Our curry was waiting. Call it a biased perception – coming off the tail of likely the most strenuous exercise I've done in my life – but this was *the best* tasting curry I've had to date. We ate not just one, but *two* full servings of curry each (classic Katsu curry and Butter Chicken curry)!
 
@@ -481,11 +481,13 @@ Pushing through on our longest ride yet, we made it to Himeji just after dark, q
 
 All in all, we ended up covering a good portion of western and southern Japan. Would have loved to fill in the gaps, but we were already pushing both our fitness limits and time constraints! I actually needed a couple of months to recover from knee pain that was building up (apparently quite a common thing amongst cyclists when you go beyond your limits).
 
-![](https://assets.ppy.sh/blog/cycling-across-japan/2023-07-18%2001.34.01@2x.jpg)
+[![](https://assets.ppy.sh/blog/cycling-across-japan/2023-12-08%2002.00.22@2x.png)](https://ridewithgps.com/collections/2219949?privacy_code=DzkikQ3G4REq2qt8vQMQvmXE5LDyqbBh)
+
+If you're interested in diving deep into the routes we took, along with our speed and (my) heart rate, you can [find the raw data here](https://ridewithgps.com/collections/2219949?privacy_code=DzkikQ3G4REq2qt8vQMQvmXE5LDyqbBh)!
 
 Oh, and this wasn't actually the end of our cycling team. When we got back to Tokyo, we still felt like a final ride before parting ways, and did a 105 km trip up (and back down) Tama river (多摩川) to feast on some burgers. This set a record for a single day on this trip, and was a really nice way to end things!
 
-As an aside, I was really happy to have as much footage and GPS data of this trip, and enjoyed the process of creating this article (along with figuring out the best way to visualise things). While I ended up using Relive – and app that does most of the heavy lifting – I tried out five other methods of visualisation, all which had their individual benefits and drawbacks. Here's just one example I was toying with, which feels really nice and correctly shows the break stops we made along the way, but ultimately didn't convey the scale that 3D visualisation can.
+As an aside, I was really happy to have as much footage and GPS data of this trip, and enjoyed the process of creating this article (along with figuring out the best way to visualise things). While I ended up using [Relive](https://www.relive.cc/?hl=en) – and app that does most of the heavy lifting – I tried out five other methods of visualisation, all which had their individual benefits and drawbacks. Here's just one example I was toying with, which feels really nice and correctly shows the break stops we made along the way, but ultimately didn't convey the scale that 3D visualisation can.
 
 <video width="100%" controls src="https://assets.ppy.sh/blog/cycling-across-japan/GPX-Animation.mp4"></video>
 
