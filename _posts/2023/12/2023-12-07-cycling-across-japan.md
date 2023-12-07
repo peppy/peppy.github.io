@@ -26,7 +26,7 @@ The cogs started turning to plan cycling trip which ended up spanning just shy o
 
 # The company
 
-I should probably start by introducing [Dunnymeister](https://twitter.com/Dunnymeister) (shortened here-forth Dunny), my good friend (and later on, coworker for some time before osu! took off). He's a Taiko no Tatsujin connoisseur, great chef and even [brews](https://twitter.com/Dunnymeister/status/1535441445921751040) his [own beer](https://twitter.com/Dunnymeister/status/1572160175502667776).
+I should probably start by introducing [Dunnymeister](https://www.threads.net/@dunnymeister) (shortened here-forth Dunny), my good friend (and later on, coworker for some time before osu! took off). He's a Taiko no Tatsujin connoisseur, great chef and even [brews](https://twitter.com/Dunnymeister/status/1535441445921751040) his [own beer](https://twitter.com/Dunnymeister/status/1572160175502667776).
 
 # The bikes
 
