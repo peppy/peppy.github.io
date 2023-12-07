@@ -416,7 +416,7 @@ Our dinner was a very average conveyor belt sushi (回転寿司) experience at S
 
 ## To Osaka (京都→大阪)
 
-You may noticed we didn't actually do a full rotation of the lake. That's because we wanted to set ourselves up best we could for the next day, position wise.
+You may have noticed we didn't actually do a full rotation of the lake. That's because we wanted to set ourselves up best we could for the next day, position wise.
 
 One of the auxiliary goals of this trip was to visit Universal Studios Japan for the Super Nintendo World experience. Our original plan was to pack our bikes and use trains for the remaining portion of the trip, but coming this far, we agreed that it was very much preferable to just ride the distance.
 
