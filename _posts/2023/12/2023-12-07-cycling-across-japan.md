@@ -333,9 +333,9 @@ Not too much to say here. Our destination of Kurume was chosen specifically to e
 
 ---
 
-Our final length of the Kyushu journey was to get to our final destination of Fukuoka, were we would take a break for a few days as we visited friends and family. The first time off a bike since the start of the trip.
+Our final length of the Kyushu journey was to get to our final destination of Fukuoka, where we would take a break for a few days as we visited friends and family. The first time off a bike since the start of the trip.
 
-This day saw us following a major highway, but not one where bicycles were allowed. So we spent a lot of time riding alongside the road, quite often through farmlands, which was a nice change of scenery and pace.
+This day saw us following a major highway, but not one where bicycle were allowed. So we spent a lot of time riding alongside the road, quite often through farmlands, which was a nice change of scenery and pace.
 
 As we approached the city, the weather made a turn for the worst, and we were back on the main road. quite an unpleasant experience as the trucks, passing us at high-speed created their own local weather systems with water, hitting us from every direction!
 
@@ -451,7 +451,7 @@ Let's not forget our main goal being to visit Super Nintendo World at Universal 
 
 We witnessed a Japanese family handover two of the tickets to a foreign family that was crying at the entrance, not able to get in as they didn't realise the area needed a second separate ticket.
 
-I won't to go into too much detail about super Nintendo world, but it surpassed my expectations in may ways. The soundtrack was definitely the highlight for me, with original compositions and arrangements of existing Mario music renditioned to suit the theme park. As you walked around, a single track would seamlessly transition into different versions, it was just so well thought out!
+I won't to go into too much detail about super Nintendo world, but it surpassed my expectations in many ways. The soundtrack was definitely the highlight for me, with original compositions and arrangements of existing Mario music renditioned to suit the theme park. As you walked around, a single track would seamlessly transition into different versions, it was just so well thought out!
 
 We ended up, glitching out the star system and getting into the final Boss battle room while skipping one or two mini games.￼ Which was great because each mini-game had a 20-40 minutes waiting time in line.
 
