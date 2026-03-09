@@ -22,7 +22,7 @@ So when I overheard a friend talking about their upcoming trip to Japan and they
 
 The cogs started turning to plan cycling trip which ended up spanning just shy of 1,000km on paper, but had ample time allowance for both my friend's plans to meet his "Splatoon" gaming acquaintances across the country, and my own osu! time requirements on a daily basis. It would be an effort, but one that could coexist with ongoing responsibilities.
 
----
+***
 
 # The company
 

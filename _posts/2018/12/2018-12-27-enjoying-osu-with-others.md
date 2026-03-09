@@ -12,6 +12,8 @@ osu! is a heavily community focused online game. Some players lean towards the c
 
 On any given day there are up to 800 concurrent multiplayer games, creating localised competition and enjoyment for their participants. Even so, I think we can all agree that the ecosystem created around Performance Points (or PP) and the global rankings are the focus for most.
 
+***
+
 Through all the complaints and criticisms of the system and its method of calculation, people of all skill levels are still striving for the highest pp they can achieve (quite often focusing on beatmaps which specifically reward more pp for less effort, known as “farm” maps).
 
 This is one area which is quite unique in osu! – we don’t have the concept of seasons where leaderboards are reset. Scores remain for years and history is retained forever. It really lets users feel like they have achieved something solid, in my opinion – set a record and it’s there in stone (unless you beat it yourself!). But it also does lead to unavoidable stagnation.

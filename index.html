@@ -10,10 +10,28 @@ layout: default
         <h4 class="date">published <date>{{ post.date | date_to_string }}</date></h4>
 
         <div class="entry">
-            {{ post.content }}
+            {% assign excerpt_content = post.excerpt | strip %}
+            {% assign full_content = post.content | strip %}
+
+            {% if excerpt_content != full_content %}
+                {{ post.excerpt }}
+            {% else %}
+                {{ post.content }}
+            {% endif %}
         </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">comments</a>
+        {% if excerpt_content != full_content %}
+            ...
+            {% assign words = post.content | number_of_words %}
+            {% assign minutes = words | divided_by: 200 %}
+            {% if minutes == 0 %}
+              {% assign minutes = 1 %}
+            {% endif %}
+
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">continue reading (~{{ minutes }} min read)</a>
+        {% else %}
+            <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">comments</a>
+        {% endif %}
     </article>
     {% endfor %}
 </div>

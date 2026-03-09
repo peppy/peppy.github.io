@@ -10,6 +10,7 @@ published: true
 
 Before I delve into some history and tidbits on the project, if you're just interested in giving it a shot, [click here](https://apps.apple.com/us/app/osu-stream/id436952197) to visit the app store and grab yourself a copy!
 
+***
 
 # History
 

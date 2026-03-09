@@ -6,6 +6,8 @@ published: true
 
 With the [osu!lazer](https://github.com/ppy/osu) project creeping closer and closer to being a feasible alternative to `osu-stable`, the number of questions I receive on a daily basis is growing. Let's take a step back and answer some of the most frequency asked questions, sourced from [you guys](https://twitter.com/ppy/status/1185435593393573888).
 
+***
+
 ## Development and Release Schedule
 
 ### What is lazer / Is osu!lazer a new game or an update?
