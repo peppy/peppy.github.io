@@ -29,12 +29,32 @@ layout: default
             {% endif %}
 
             <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">continue reading (~{{ minutes }} min read)</a>
-        {% else %}
-            <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">comments</a>
+            |
         {% endif %}
+        <a href="{{ site.baseurl }}{{ post.url }}#comments" class="read-more">
+            <span class="comment-count" data-schnack-slug="{{ post.slug }}">
+                <span class="loading">comments</span>
+            </span>
+        </a>
     </article>
     {% endfor %}
 </div>
+
+<script>
+document.querySelectorAll('.comment-count').forEach(async (el) => {
+    const slug = el.dataset.schnackSlug;
+
+    try {
+        const response = await fetch(`https://comments.ppy.sh/comments/${slug}`);
+        const data = await response.json();
+        const count = data.comments ? data.comments.length : 0;
+        el.innerHTML = count === 1 ? '1 comment' : `${count} comments`;
+    } catch (error) {
+    }
+});
+</script>
+
+
 
 <!-- Pagination links -->
 <div class="pagination">
