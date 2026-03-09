@@ -59,9 +59,9 @@ document.querySelectorAll('.comment-count').forEach(async (el) => {
 <!-- Pagination links -->
 <div class="pagination">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">&laquo;</a> {% else %}
-    <span class="previous">&laquo;</span> {% endif %}
-    <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span> {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">&raquo;</a> {% else %}
-    <span class="next ">&raquo;</span> {% endif %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; newer</a> {% else %}
+    <span class="previous">&laquo; newer</span> {% endif %}
+    <span class="page_number ">page {{ paginator.page }} of {{ paginator.total_pages }}</span> {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">older &raquo;</a> {% else %}
+    <span class="next ">older &raquo;</span> {% endif %}
 </div>
