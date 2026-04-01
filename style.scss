@@ -1,12 +1,15 @@
 ---
 ---
 
+@use "sass:color";
+
 //
 // IMPORTS
 //
 
 @import "reset";
 @import "variables";
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -256,7 +259,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 5em;
-  border-bottom: 1px solid lighten(#f33, 35);
+  border-bottom: 1px solid color.adjust(#f33, $lightness: 35%);
 }
 
 .posts > .post:last-child {
@@ -289,7 +292,7 @@ nav {
       }
 
       a {
-        background: lighten($blue, 47);
+        background: color.adjust($blue, $lightness: 47%);
         border-radius: 2px;
       }
   }
